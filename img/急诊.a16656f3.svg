@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="139px" height="93px" viewBox="0 0 139 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>急诊</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-723.000000, -877.000000)" fill="#F26334">
+            <g id="急诊" transform="translate(723.001755, 877.810272)">
+                <polygon id="矩形备份-3" opacity="0.2" transform="translate(34.740112, 56.044060) scale(-1, 1) translate(-34.740112, -56.044060) " points="0 50.7459325 69.480224 20.5175329 69.480224 55.2480523 2.46843342e-13 91.5705878"></polygon>
+                <polygon id="矩形备份-8" opacity="0.15" transform="translate(103.740112, 56.812313) scale(-1, 1) translate(-103.740112, -56.812313) " points="69 22.7459325 138.480224 50.7899035 138.480224 90.8786933 69 60.7297675"></polygon>
+                <polygon id="矩形备份-9" opacity="0.36" transform="translate(69.240112, 25.372966) scale(-1, 1) translate(-69.240112, -25.372966) " points="69.480224 -7.81597009e-14 138.480224 21.3028924 69 50.7459325 1.8189894e-12 22.7459325"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

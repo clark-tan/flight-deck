@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>资源效率</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.2023601%" id="linearGradient-1">
+            <stop stop-color="#30F7F9" offset="0%"></stop>
+            <stop stop-color="#007173" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="4" y="0" width="14" height="4" rx="2"></rect>
+        <filter x="-7.1%" y="-25.0%" width="114.3%" height="150.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.988235294   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0.734812063%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#30F7F9" offset="0%"></stop>
+            <stop stop-color="#18B5B7" offset="49.4321329%"></stop>
+            <stop stop-color="#007173" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="0" y="5" width="22" height="19" rx="3"></rect>
+        <filter x="-4.5%" y="-5.3%" width="109.1%" height="110.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.988235294   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-48.000000, -23.000000)">
+            <g id="资源效率" transform="translate(52.000000, 26.000000)">
+                <g id="形状结合">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                </g>
+                <g id="形状结合">
+                    <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                </g>
+                <path d="M6.75,10.25 C7.02614238,10.25 7.25,10.4738576 7.25,10.75 L7.25,17.75 C7.25,18.0261424 7.02614238,18.25 6.75,18.25 L6.25,18.25 C5.97385763,18.25 5.75,18.0261424 5.75,17.75 L5.75,10.75 C5.75,10.4738576 5.97385763,10.25 6.25,10.25 L6.75,10.25 Z M15.75,10.25 C16.0261424,10.25 16.25,10.4738576 16.25,10.75 L16.25,17.75 C16.25,18.0261424 16.0261424,18.25 15.75,18.25 L15.25,18.25 C14.9738576,18.25 14.75,18.0261424 14.75,17.75 L14.75,10.75 C14.75,10.4738576 14.9738576,10.25 15.25,10.25 L15.75,10.25 Z M11.25,11.25 C11.5261424,11.25 11.75,11.4738576 11.75,11.75 L11.75,16.75 C11.75,17.0261424 11.5261424,17.25 11.25,17.25 L10.75,17.25 C10.4738576,17.25 10.25,17.0261424 10.25,16.75 L10.25,11.75 C10.25,11.4738576 10.4738576,11.25 10.75,11.25 L11.25,11.25 Z" id="形状结合" fill="#FFFFFF"></path>
+            </g>
+            <rect id="资源效率" x="48" y="23" width="30" height="30" rx="0.5"></rect>
+        </g>
+    </g>
+</svg>

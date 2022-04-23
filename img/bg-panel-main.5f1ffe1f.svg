@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="550px" height="479px" viewBox="0 0 550 479" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>门急诊收入</title>
+    <defs>
+        <linearGradient x1="101.382462%" y1="11.4990524%" x2="0%" y2="87.5555556%" id="linearGradient-1">
+            <stop stop-color="#25FBC0" offset="0%"></stop>
+            <stop stop-color="#43DBFF" offset="99.9781469%"></stop>
+        </linearGradient>
+        <filter x="-2.7%" y="-3.1%" width="105.4%" height="106.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-2.0%" y="-2.3%" width="104.0%" height="104.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="7.72216797%" y1="12.4444444%" x2="100%" y2="87.5555556%" id="linearGradient-4">
+            <stop stop-color="#60B8C7" offset="0%"></stop>
+            <stop stop-color="#25FBC0" offset="22.4978147%"></stop>
+            <stop stop-color="#077168" offset="44.9464598%"></stop>
+            <stop stop-color="#85E7FF" offset="74.571132%"></stop>
+            <stop stop-color="#2294B0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.40478516%" y1="16.2385758%" x2="100%" y2="87.5795834%" id="linearGradient-5">
+            <stop stop-color="#61BECE" offset="0%"></stop>
+            <stop stop-color="#B8FFF1" offset="15.6291895%"></stop>
+            <stop stop-color="#25FBC0" offset="22.4978147%"></stop>
+            <stop stop-color="#43726E" offset="44.2690122%"></stop>
+            <stop stop-color="#6DC9DF" offset="74.571132%"></stop>
+            <stop stop-color="#2294B0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-22.1590458%" y1="-155.844327%" x2="118.43566%" y2="-155.844327%" id="linearGradient-6">
+            <stop stop-color="#25ABAE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#9EFCFF" offset="51.9501273%"></stop>
+            <stop stop-color="#229EAA" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="103.145264%" y1="50.0064445%" x2="-1.99340262%" y2="50.0064443%" id="linearGradient-7">
+            <stop stop-color="#28F8C5" stop-opacity="0.336838942" offset="0%"></stop>
+            <stop stop-color="#37E8E5" stop-opacity="0.906634285" offset="93.2281584%"></stop>
+            <stop stop-color="#39E5EA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="98.2966889%" y1="16.6845724%" x2="10.314376%" y2="121.533448%" id="linearGradient-8">
+            <stop stop-color="#39E5EA" offset="0%"></stop>
+            <stop stop-color="#229698" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="73.2320994%" y1="105.877899%" x2="36.5000858%" y2="-21.4370278%" id="linearGradient-9">
+            <stop stop-color="#26A6A9" offset="0%"></stop>
+            <stop stop-color="#61B1BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-22.1590458%" y1="-155.844327%" x2="118.43566%" y2="-155.844327%" id="linearGradient-10">
+            <stop stop-color="#25ABAE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#9EFCFF" offset="51.9501273%"></stop>
+            <stop stop-color="#229EAA" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-958.000000, -17.000000)">
+            <g id="门急诊收入" transform="translate(971.285012, 25.000000)">
+                <rect id="矩形" opacity="0.4" x="0" y="0" width="523.429975" height="453" rx="2"></rect>
+                <polygon id="矩形" opacity="0.200513263" points="15.7149877 13 507.714988 13 507.714988 440 15.7149877 440"></polygon>
+                <polygon id="路径-6" fill="#07524D" opacity="0.6" points="21.7149877 98 21.7149877 32.1800515 35.7965446 18 336.214988 18 489.23363 18 501.714988 32.1800515 501.714988 98"></polygon>
+                <polygon id="路径-5" stroke="url(#linearGradient-1)" stroke-width="2" fill="#002B3A" opacity="0.5" filter="url(#filter-2)" points="35.7965446 18 21.7149877 32.1056131 21.7149877 422.388738 35.7965446 434 198.214988 434 209.850598 425.5 312.870861 425.5 325.11391 434 489.23363 434 501.714988 422.388738 501.714988 32.1056131 489.23363 18"></polygon>
+                <polygon id="路径-5" stroke="url(#linearGradient-1)" filter="url(#filter-3)" points="35.7965446 18 21.7149877 32.1056131 21.7149877 422.388738 35.7965446 434 198.214988 434 209.850598 425.5 312.870861 425.5 325.11391 434 489.23363 434 501.714988 422.388738 501.714988 32.1056131 489.23363 18"></polygon>
+                <polygon id="路径-5" stroke="url(#linearGradient-1)" opacity="0.5" points="35.7965446 18 21.7149877 32.1056131 21.7149877 422.388738 35.7965446 434 198.214988 434 209.850598 425.5 312.870861 425.5 325.11391 434 489.23363 434 501.714988 422.388738 501.714988 32.1056131 489.23363 18"></polygon>
+                <polygon id="路径-5" stroke="url(#linearGradient-4)" points="35.7965446 18 21.7149877 32.1056131 21.7149877 422.388738 35.7965446 434 198.214988 434 209.850598 425.5 312.870861 425.5 325.11391 434 489.23363 434 501.714988 422.388738 501.714988 32.1056131 489.23363 18"></polygon>
+                <path d="M489.23363,18 L35.7965446,18 M21.7149877,32.1056131 L21.7149877,422.388738 M35.7965446,434 L198.214988,434 M209.850598,425.5 L312.870861,425.5 M325.11391,434 L489.23363,434 M501.714988,422.388738 L501.714988,32.1056131" id="形状" stroke="url(#linearGradient-5)"></path>
+                <line x1="22.0068094" y1="186.502866" x2="22.0068094" y2="96.5028663" id="路径-16" stroke="url(#linearGradient-6)" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="21.7149877" y1="98" x2="501.714988" y2="98" id="路径-7" stroke="url(#linearGradient-7)"></line>
+                <polygon id="路径-10" fill="#36E9E4" opacity="0.6" points="33.9877561 17.4758106 21.18076 30.1984302 21.18076 17.4758106"></polygon>
+                <polygon id="路径-10备份" fill="#26FAC2" opacity="0.6" transform="translate(496.913655, 23.351776) rotate(-270.000000) translate(-496.913655, -23.351776) " points="502.786874 18.0183643 491.040436 28.6851877 491.040436 18.0183643"></polygon>
+                <polygon id="路径-11" fill="#35E9E3" opacity="0.292514535" points="198.214988 434.648216 209.850598 426.148216 312.870861 426.148216 325.11391 434.648216"></polygon>
+                <line x1="15.6413444" y1="98" x2="21.7149877" y2="91.1826172" id="路径-14" stroke="url(#linearGradient-8)" stroke-width="0.8" stroke-linecap="round"></line>
+                <g id="编组-17" transform="translate(15.641344, 98.000000)">
+                    <polyline id="路径-12" stroke="#39E7E9" stroke-width="0.8" opacity="0.6" points="0 0 0 324 20.5938305 342 182.16083 342 201.642491 327.469238"></polyline>
+                    <polygon id="路径-13" fill="#10919C" points="0.0736433481 324.712911 6.07364335 324.712911 20.1552003 336 20.1552003 342"></polygon>
+                </g>
+                <g id="编组-17" transform="translate(406.678166, 269.000000) scale(-1, 1) translate(-406.678166, -269.000000) translate(305.641344, 98.000000)">
+                    <polyline id="路径-12" stroke="#39E7E9" stroke-width="0.8" opacity="0.6" points="0.431152344 0 0.431152344 324 21.0249828 342 182.591983 342 202.073643 327.469238"></polyline>
+                    <polygon id="路径-13" fill="#31EED9" opacity="0.488917151" points="0 323.872351 6 323.872351 18.4813579 336 21.0249828 342"></polygon>
+                </g>
+                <line x1="502.078599" y1="87.9824861" x2="507.283835" y2="98" id="路径-15" stroke="url(#linearGradient-9)" stroke-linecap="round"></line>
+            </g>
+            <line x1="1272.5" y1="463.5" x2="1182.5" y2="463.5" id="路径-16" stroke="url(#linearGradient-10)" stroke-linecap="round" stroke-linejoin="round"></line>
+        </g>
+    </g>
+</svg>

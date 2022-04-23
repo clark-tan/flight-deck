@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="15px" viewBox="0 0 36 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>急诊</title>
+    <defs>
+        <ellipse id="path-1" cx="658.909946" cy="683.5" rx="17.9099462" ry="7.5"></ellipse>
+        <filter x="-16.8%" y="-40.0%" width="133.5%" height="180.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="6" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="1" opacity="0.6">
+        <g id="急诊" transform="translate(-641.000000, -676.000000)" fill="black">
+            <use filter="url(#filter-2)" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

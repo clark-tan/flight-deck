@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="74px" viewBox="0 0 72 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>住院</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.145098 0 0 0 0 0.972549 0 0 0 0 0.745098 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <linearGradient x1="49.9999897%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#5FFAFC" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0.430288462" offset="12.494979%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0.0470388986" offset="41.7285832%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0.313510708" offset="58.4452332%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0.534992351" offset="84.5220085%"></stop>
+            <stop stop-color="#4EFEF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="91.8321072%" y1="49.1969896%" x2="61.1788169%" y2="58.5941376%" id="linearGradient-3">
+            <stop stop-color="#00FFF8" offset="0%"></stop>
+            <stop stop-color="#00FFF8" offset="44.6623689%"></stop>
+            <stop stop-color="#FAF475" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9999897%" y1="0%" x2="115.663237%" y2="193.740023%" id="linearGradient-4">
+            <stop stop-color="#4EFEF9" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0.430288462" offset="12.494979%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0.0470388986" offset="41.7285832%"></stop>
+            <stop stop-color="#FAF475" stop-opacity="0.313510708" offset="58.4452332%"></stop>
+            <stop stop-color="#FAF475" stop-opacity="0.534992351" offset="84.5220085%"></stop>
+            <stop stop-color="#4EFEF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="110.238234%" y1="49.1969896%" x2="66.0974963%" y2="58.5941376%" id="linearGradient-5">
+            <stop stop-color="#00FFF8" offset="0%"></stop>
+            <stop stop-color="#4AF2ED" offset="44.6623689%"></stop>
+            <stop stop-color="#FAF475" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.772960574">
+        <g id="住院" transform="translate(-769.000000, -581.000000)" filter="url(#filter-1)">
+            <g transform="translate(769.000000, 582.000000)">
+                <rect id="矩形" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="72" height="72"></rect>
+                <path d="M14.7855129,50.9102197 C9.16273347,45.3336098 6,37.7424917 6,29.8234393 C6,21.904387 9.16273347,14.3132689 14.7855129,8.736659 C26.5009165,-2.91221967 45.497571,-2.91221967 57.2129746,8.736659 C62.8366783,14.3133856 66,21.9051485 66,29.8249393 C66,37.7447301 62.8366783,45.336493 57.2129746,50.9132197 L35.9992437,72 L14.7855129,50.9102197 Z" id="形状" stroke="url(#linearGradient-3)" stroke-width="0.5" fill="url(#linearGradient-2)"></path>
+                <path d="M35.5714286,49.7142857 C46.6960214,49.7142857 55.7142857,40.6960214 55.7142857,29.5714286 C55.7142857,18.4468358 46.6960214,9.42857143 35.5714286,9.42857143 C24.4468358,9.42857143 15.4285714,18.4468358 15.4285714,29.5714286 C15.4285714,40.6960214 24.4468358,49.7142857 35.5714286,49.7142857 Z" id="路径" stroke="url(#linearGradient-5)" stroke-width="0.5" fill="url(#linearGradient-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

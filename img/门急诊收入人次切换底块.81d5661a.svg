@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="178px" height="36px" viewBox="0 0 178 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>门急诊收入人次切换底块</title>
+    <defs>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-1601.000000, -107.000000)">
+            <g id="门急诊收入人次切换底块" transform="translate(1601.934318, 107.000000)">
+                <polygon id="矩形" fill="#04484B" opacity="0.483807231" points="13.0016989 0 177.065682 0 177.065682 24.6123843 164.629693 36 -4.88680435e-15 36"></polygon>
+                <path d="M176.565682,0.5 L176.565682,24.3922763 L164.435352,35.5 L0.712188811,35.5 L13.3527294,0.5 L176.565682,0.5 Z" id="矩形" stroke="#38E7E8" opacity="0.2" filter="url(#filter-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
