@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="216px" viewBox="0 0 372 216" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 10</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="28.9332343%" x2="50%" y2="183.334865%" id="linearGradient-2">
+            <stop stop-color="#4EFEF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0.4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.3">
+        <g id="数据大屏/图表空1" transform="translate(-141.000000, -344.000000)">
+            <g id="编组-3" transform="translate(141.000000, 344.000000)" filter="url(#filter-1)">
+                <g>
+                    <polygon id="Rectangle-3备份-7" fill="#FFFFFF" opacity="0.15" points="48 194 372 194 372 195 48 195"></polygon>
+                    <polygon id="Rectangle-3备份-8" fill="#FFFFFF" opacity="0.15" points="48 162 372 162 372 163 48 163"></polygon>
+                    <polygon id="Rectangle-3备份-9" fill="#FFFFFF" opacity="0.15" points="48 130 372 130 372 131 48 131"></polygon>
+                    <polygon id="Rectangle-3备份-10" fill="#FAF475" points="48 99 372 99 372 100 48 100"></polygon>
+                    <polygon id="Rectangle-3备份-11" fill="#FFFFFF" opacity="0.15" points="48 67 372 67 372 68 48 68"></polygon>
+                    <polygon id="Rectangle-3备份-12" fill="#FFFFFF" opacity="0.15" points="48 35 372 35 372 36 48 36"></polygon>
+                    <polygon id="Rectangle-8-Copy-2备份-5" fill="#FFFFFF" opacity="0.15" points="47 4.69181985e-13 48 4.69181985e-13 48 195 47 195"></polygon>
+                    <text id="字体/12px/333/中备份-6" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="64" y="215.833789">12</tspan>
+                    </text>
+                    <text id="字体/12px/333/中备份-7" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="104" y="216">21-01</tspan>
+                    </text>
+                    <text id="字体/12px/333/中备份-8" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="164" y="215.833789">02</tspan>
+                    </text>
+                    <text id="字体/12px/333/中备份-9" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="214" y="215.833789">03</tspan>
+                    </text>
+                    <text id="字体/12px/333/中备份-10" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="264" y="215.833789">04</tspan>
+                    </text>
+                    <text id="字体/12px/333/中备份-11" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="314" y="216">05</tspan>
+                    </text>
+                    <text id="字体/12px/333/右备份-3" opacity="0.6" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="0" y="168">000.00</tspan>
+                    </text>
+                    <text id="字体/12px/333/右备份-4" opacity="0.6" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="0" y="136.833789">000.00</tspan>
+                    </text>
+                    <text id="字体/12px/333/右备份-5" opacity="0.6" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="0" y="105.833789">000.00</tspan>
+                    </text>
+                    <text id="字体/12px/333/右备份-6" opacity="0.6" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="0" y="72.8337889">000.00</tspan>
+                    </text>
+                    <text id="字体/12px/333/右备份-7" opacity="0.6" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="0" y="40.8337889">000.00</tspan>
+                    </text>
+                    <text id="字体/12px/333/右备份-9" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="344" y="216">月份</tspan>
+                    </text>
+                    <g id="编组-20" transform="translate(68.000000, 52.000000)">
+                        <g id="编组-5备份-8" transform="translate(126.500000, 46.916894) scale(1, -1) translate(-126.500000, -46.916894) ">
+                            <polygon id="路径-4" fill="url(#linearGradient-2)" points="-2.19736066e-13 30.6306368 51.3840576 85.8337889 101.303844 45.8751077 152.222027 64.5762626 203.140209 11.8337889 253 80.012948 253 0 -2.2470914e-13 0"></polygon>
+                            <polyline id="路径-4" stroke="#4EFEF9" stroke-width="2" points="-2.19736066e-13 30.6306368 51.3840576 85.8337889 101.303844 45.8751077 152.222027 64.5762626 203.140209 11.8337889 253 80.012948"></polyline>
+                            <circle id="椭圆形" stroke="#FFFFFF" stroke-width="2" fill="#4EFEF9" cx="51" cy="85.8337889" r="3"></circle>
+                            <circle id="椭圆形备份-6" fill="#4EFEF9" cx="102" cy="45.8337889" r="3"></circle>
+                            <circle id="椭圆形备份-7" stroke="#4EFEF9" opacity="0.3" cx="203" cy="11.8337889" r="7.5"></circle>
+                            <circle id="椭圆形备份-8" stroke="#4EFEF9" opacity="0.3" cx="51" cy="85.8337889" r="7.5"></circle>
+                            <circle id="椭圆形备份-7" stroke="#FFFFFF" stroke-width="2" fill="#4EFEF9" cx="203" cy="11.8337889" r="3"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

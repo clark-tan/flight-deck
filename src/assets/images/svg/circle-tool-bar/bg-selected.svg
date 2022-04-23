@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="188px" height="97px" viewBox="0 0 188 97" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>选中背景备份</title>
+    <defs>
+        <linearGradient x1="51.363926%" y1="-88.7411176%" x2="51.363926%" y2="87.0641305%" id="linearGradient-1">
+            <stop stop-color="#4EFEF9" offset="0%"></stop>
+            <stop stop-color="#4A9AEC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="78.0229596%" y1="8.93115224%" x2="22.3386284%" y2="8.93115224%" id="linearGradient-2">
+            <stop stop-color="#4EFEF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" offset="49.8429568%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-1.5%" y="-2.8%" width="103.3%" height="106.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="97.4035954%" y1="35.3520281%" x2="2.924516%" y2="35.3520281%" id="linearGradient-4">
+            <stop stop-color="#4EFEF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" offset="49.8429568%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-1.5%" y="-2.8%" width="103.3%" height="106.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-846.000000, -1514.000000)">
+            <g id="选中背景备份" transform="translate(848.742843, 1517.000000)">
+                <path d="M90.815976,0.431627966 C140.797746,0.431627966 181.315976,40.9498581 181.315976,90.931628 L181.311,90.431 L0.317332637,90.4307922 C0.584220486,41.1786486 40.1943017,1.24024086 89.319393,0.443752381 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+                <path d="M90.815976,0.931627966 C115.399392,0.931627966 137.680729,10.7880089 153.923769,26.7645801 C170.194341,42.7682327 180.406195,64.9128202 180.803864,89.4386336 L180.803864,89.4386336 L0.821425593,89.9307927 C1.08592777,65.6538934 10.9624738,43.6833974 26.8249194,27.6454033 C42.8147327,11.4786318 64.8869621,1.33995273 89.3234435,0.943735973 L89.3234435,0.943735973 Z" id="形状结合" stroke="url(#linearGradient-2)" filter="url(#filter-3)"></path>
+                <path d="M90.815976,0.681627966 C115.467684,0.681627966 137.810916,10.5653946 154.099077,26.5863475 C170.414864,42.6344731 180.655057,64.8406102 181.053858,89.4368393 L181.053858,89.4368393 L181.059199,90.1809997 L0.569034031,90.1807925 C0.768220993,65.7362085 10.6856249,43.607795 26.6471726,27.469602 C42.6814212,11.2579035 64.8149997,1.09108663 89.3214183,0.693744177 L89.3214183,0.693744177 Z" id="形状结合" stroke="url(#linearGradient-4)" stroke-width="0.5" filter="url(#filter-5)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

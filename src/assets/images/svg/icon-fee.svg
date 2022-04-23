@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>收支情况</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="67.9711687%" id="linearGradient-1">
+            <stop stop-color="#4AFDFF" offset="0%"></stop>
+            <stop stop-color="#007173" offset="100%"></stop>
+        </linearGradient>
+        <path d="M17,8.50979586e-05 C18.1045695,8.50979586e-05 19,0.895515598 19,2.0000851 L19,15.0000851 C19,16.1046546 18.1045695,17.0000851 17,17.0000851 L5,17.0000851 C3.8954305,17.0000851 3,16.1046546 3,15.0000851 L3,2.0000851 C3,0.895515598 3.8954305,8.50979586e-05 5,8.50979586e-05 L7.12599558,1.6442403e-13 C7.57000878,1.72527039 9.13612993,3.0000851 11,3.0000851 C12.8638701,3.0000851 14.4299912,1.72527039 14.8740044,1.65034653e-13 L17,8.50979586e-05 Z" id="path-2"></path>
+        <filter x="-6.2%" y="-5.9%" width="112.5%" height="111.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.397808689   0 0 0 0 0.992656204   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0.396088287%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#30F7F9" offset="0%"></stop>
+            <stop stop-color="#007173" offset="100%"></stop>
+        </linearGradient>
+        <path d="M2.87041946,4.38753094 L9.89679511,7.78400792 C10.7373211,8.19030947 11.7190911,8.18215281 12.5527504,7.76194193 L19.0997826,4.46187171 C20.0861342,3.96469536 21.2887712,4.36125025 21.7859475,5.34760184 C21.9266872,5.62681627 22,5.93513994 22,6.24781925 L22,22 C22,23.1045695 21.1045695,24 20,24 L2,24 C0.8954305,24 1.3527075e-16,23.1045695 0,22 L0,6.18818914 C-1.3527075e-16,5.08361964 0.8954305,4.18818914 2,4.18818914 C2.30145518,4.18818914 2.59901059,4.25633471 2.87041946,4.38753094 Z" id="path-5"></path>
+        <filter x="-4.5%" y="0.9%" width="109.1%" height="103.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.987878788   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-14.000000, -23.000000)">
+            <g id="收支情况" transform="translate(18.000000, 25.999915)">
+                <g id="形状结合">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                </g>
+                <g id="矩形">
+                    <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                </g>
+                <path d="M14.9294725,12.0130236 L15.2830259,12.366577 C15.478288,12.5618391 15.478288,12.8784216 15.2830259,13.0736837 L13.0684083,15.287577 L14.9594083,15.2878075 C15.2355506,15.2878075 15.4594083,15.5116651 15.4594083,15.7878075 L15.4594083,16.2878075 C15.4594083,16.5639499 15.2355506,16.7878075 14.9594083,16.7878075 L12.1924083,16.787577 L12.1924083,17.987577 L14.9594083,17.9878366 C15.2355506,17.9878366 15.4594083,18.2116943 15.4594083,18.4878366 L15.4594083,18.9878366 C15.4594083,19.263979 15.2355506,19.4878366 14.9594083,19.4878366 L12.1924083,19.487577 L12.1926855,20.7500851 C12.1926855,21.0262275 11.9688279,21.2500851 11.6926855,21.2500851 L11.2261311,21.2500851 C10.9499887,21.2500851 10.7261311,21.0262275 10.7261311,20.7500851 L10.7254083,19.487577 L7.95940827,19.4878366 C7.6832659,19.4878366 7.45940827,19.263979 7.45940827,18.9878366 L7.45940827,18.4878366 C7.45940827,18.2116943 7.6832659,17.9878366 7.95940827,17.9878366 L10.7254083,17.987577 L10.7254083,16.787577 L7.95940827,16.7878075 C7.6832659,16.7878075 7.45940827,16.5639499 7.45940827,16.2878075 L7.45940827,15.7878075 C7.45940827,15.5116651 7.6832659,15.2878075 7.95940827,15.2878075 L9.87940827,15.287577 L7.66108697,13.0697421 C7.46582482,12.87448 7.46582482,12.5578975 7.66108697,12.3626354 L7.99099078,12.0327316 C8.18625292,11.8374694 8.50283541,11.8374694 8.69809756,12.0327316 L11.4497651,14.7851832 L14.2223657,12.0130236 C14.4176279,11.8177614 14.7342104,11.8177614 14.9294725,12.0130236 Z" id="形状结合" fill="#FFFFFF"></path>
+            </g>
+            <rect id="收支情况" x="14" y="23" width="30" height="30" rx="0.5"></rect>
+        </g>
+    </g>
+</svg>

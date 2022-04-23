@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="106px" viewBox="0 0 107 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 19备份</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.3">
+        <g id="编组-19备份" transform="translate(-1658.000000, -1557.000000)" filter="url(#filter-1)">
+            <g transform="translate(1664.656895, 1561.000000)">
+                <circle id="椭圆形" stroke="#FFFFFF" stroke-width="16" opacity="0.05" cx="46.8431049" cy="49" r="45"></circle>
+                <path d="M0,63.4222113 C6.15750768,83.4453504 24.800596,98 46.8431049,98 C73.9050576,98 95.8431049,76.0619527 95.8431049,49 C95.8431049,21.9380473 73.9050576,0 46.8431049,0" id="路径" stroke="#25FCC1" stroke-width="6" stroke-linecap="round"></path>
+                <path d="M10.8706873,70.6912295 C18.2259151,82.8628835 31.5842473,91 46.8431049,91 C70.0390644,91 88.8431049,72.1959595 88.8431049,49 C88.8431049,25.8040405 70.0390644,7 46.8431049,7" id="路径" stroke="#FFFFFF" stroke-width="6" opacity="0.4" stroke-linecap="round"></path>
+                <path d="M3.97397675,63.8147779 C3.93556084,63.77768 3.93449231,63.7164641 3.97159012,63.6780482 C3.97741832,63.6720129 3.98400721,63.6667618 3.99119078,63.6624272 L40.9460778,41.3636264 L40.9460778,41.3636264 L42.821606,43.9955492 L4.17633172,63.8446841 C4.10943037,63.8790462 4.02807831,63.8670231 3.97397675,63.8147779 Z" id="直线-4备份-5" fill="#DC4B46" fill-rule="nonzero" transform="translate(23.383028, 52.613864) scale(-1, 1) rotate(-134.000000) translate(-23.383028, -52.613864) "></path>
+                <path d="M31.297591,77.1721047 L25.269266,40.6102738 L25.269266,40.6102738 L28.4949623,40.8090373 L31.4365756,77.1550731 C31.4396065,77.1925226 31.4125571,77.2256961 31.3752641,77.2302659 C31.3379679,77.234836 31.3037038,77.2091793 31.297591,77.1721047 Z" id="直线-4备份-5" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4" transform="translate(28.353037, 58.920533) scale(-1, 1) rotate(-54.000000) translate(-28.353037, -58.920533) "></path>
+                <circle id="椭圆形备份-3" stroke="#DC4B46" stroke-width="3.2" cx="47.3431049" cy="47.5" r="4.9"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

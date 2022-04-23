@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1262px" height="404px" viewBox="0 0 1262 404" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>背景暗层</title>
+    <defs>
+        <linearGradient x1="50%" y1="41.5224253%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#002B3A" offset="0%"></stop>
+            <stop stop-color="#042A34" stop-opacity="0.73942854" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-8.0%" y="-37.5%" width="115.9%" height="175.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="31" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.733716388">
+        <g id="切图" transform="translate(0.000000, -1737.000000)" fill="url(#linearGradient-1)">
+            <path d="M612.74249,1816 C901.110391,1816 1141.60525,1922.52873 1196.48498,2063.9973 L29,2063.9973 C83.8797283,1922.52873 324.37459,1816 612.74249,1816 Z" id="背景暗层" filter="url(#filter-2)"></path>
+        </g>
+    </g>
+</svg>

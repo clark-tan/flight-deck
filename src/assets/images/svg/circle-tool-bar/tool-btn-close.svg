@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="8px" viewBox="0 0 9 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>箭头</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-767.000000, -1558.000000)">
+            <g id="箭头" transform="translate(771.488652, 1561.750000) scale(1, -1) translate(-771.488652, -1561.750000) translate(767.242843, 1558.000000)">
+                <path d="M4.24897825,4.39820056e-14 L8.49161894,4.24264069 L8.484,4.249 L7.08,4.249 L4.24685693,1.41633488 L1.413,4.249 L0,4.249 L4.24897825,4.39820056e-14 Z" id="形状结合" fill="#4EFEF9"></path>
+                <polygon id="三角形" fill="#FFFFFF" points="4.21721972 3.5 8.21721972 7.5 0.217219715 7.5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

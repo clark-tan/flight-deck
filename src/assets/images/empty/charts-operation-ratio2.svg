@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="119px" viewBox="0 0 100 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 27</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <rect id="path-2" x="0" y="88" width="100" height="30" rx="2"></rect>
+        <filter x="-3.0%" y="-10.0%" width="106.0%" height="120.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="3" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.446433688   0 0 0 0 0.46447577  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.3">
+        <g id="编组-27" transform="translate(-167.000000, -52.000000)" filter="url(#filter-1)">
+            <g transform="translate(167.000000, 53.000000)">
+                <g id="矩形备份-25" opacity="0.675163517" fill="black" fill-opacity="1">
+                    <use filter="url(#filter-3)" xlink:href="#path-2"></use>
+                </g>
+                <circle id="椭圆形备份-6" stroke="#4EFEF9" stroke-width="3" opacity="0.15" cx="50" cy="39" r="33.1666667"></circle>
+                <path d="M67.481141,68.9428941 C77.7614656,62.9281106 84.6666667,51.7704533 84.6666667,39 C84.6666667,19.8541287 69.1458713,4.33333333 50,4.33333333" id="路径备份" stroke="#4EFEF9" stroke-width="6"></path>
+                <path d="M69.5020462,72.7813107 C81.1580445,66.0377358 89,53.4346613 89,39 C89,17.4608948 71.5391052,0 50,0" id="路径备份-2" stroke="#4EFEF9" opacity="0.15"></path>
+                <text id="-----" font-family="DIN-Medium, DIN" font-size="18" font-weight="400" line-spacing="14" fill="#FFFFFF">
+                    <tspan x="32.198" y="46">- - -</tspan>
+                </text>
+                <text id="#####占比" opacity="0.6" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" letter-spacing="1.5" fill="#FFFFFF">
+                    <tspan x="7.742" y="107.672">#####占比</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

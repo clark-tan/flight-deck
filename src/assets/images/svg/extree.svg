@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>排名前三</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-20.000000, -83.000000)">
+            <g id="排名前三" transform="translate(18.000000, 88.000000)" stroke-linejoin="round">
+                <polygon id="多边形" stroke="#35BDBE" stroke-width="1.17834502" opacity="0.5" points="20 0 37.3205081 7 37.3205081 21 20 28 2.67949192 21 2.67949192 7"></polygon>
+                <path d="M2.67949192,16.4365051 L2.67949192,16.3428814 M17.630798,0.957501575 L20,0 L22.2625566,0.914401369 M23.9151425,1.58228602 L24.0208839,1.62502088 M37.3205081,16.8924505 L37.3205081,17.0373055 M37.3205081,18.6846365 L37.3205081,21 L35.4035324,21.7747365 M4.77628316,21.8474081 L2.67949192,21 L2.67949192,18.3427175" id="形状" stroke="#61FDFF" stroke-width="1.17834502" stroke-linecap="round"></path>
+                <polygon id="多边形" stroke="#35BDBE" stroke-width="0.589172511" fill="#42ECEE" opacity="0.486623365" points="20 3.11111111 33.4715063 8.55555556 33.4715063 19.4444444 20 24.8888889 6.52849372 19.4444444 6.52849372 8.55555556"></polygon>
+            </g>
+            <rect id="排名前三" x="20" y="83" width="36" height="36" rx="0.5"></rect>
+        </g>
+    </g>
+</svg>

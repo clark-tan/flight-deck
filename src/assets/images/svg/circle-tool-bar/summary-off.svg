@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="44px" viewBox="0 0 45 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>nor总览备份</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.8306381%" id="linearGradient-1">
+            <stop stop-color="#4EFEF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4A9AEC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#4A9AEC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="59.9662632%" id="linearGradient-3">
+            <stop stop-color="#A1DFFF" offset="0%"></stop>
+            <stop stop-color="#4A9AEC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-1671.000000, -1531.000000)">
+            <g id="nor总览备份" transform="translate(1671.242490, 1531.000000)">
+                <circle id="椭圆形" fill="url(#linearGradient-1)" opacity="0.6" cx="22" cy="22" r="22"></circle>
+                <path d="M21.999,9 L22,22 L35,22 C35,29.1797017 29.1797017,35 22,35 C14.8202983,35 9,29.1797017 9,22 C9,14.9228654 14.6551918,9.16657167 21.6931438,9.00355044 L21.999,9 Z M24,7 C31.0771346,7 36.8334283,12.6551918 36.9964496,19.6931438 L37,20 L24,20 L24,7 Z" id="形状结合" fill="url(#linearGradient-2)"></path>
+                <circle id="椭圆形" stroke="url(#linearGradient-3)" stroke-width="0.5" cx="22" cy="22" r="21.75"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

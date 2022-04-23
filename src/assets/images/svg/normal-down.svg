@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形备份 30</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-214.000000, -60.000000)">
+            <polygon id="指标减少备份" fill="#25FCC1" fill-rule="nonzero" transform="translate(222.214988, 68.000000) scale(1, -1) rotate(-180.000000) translate(-222.214988, -68.000000) " points="223.714988 61 223.714988 69 226.714988 69 222.214988 75 217.714988 69 220.714988 69 220.714988 61"></polygon>
+            <rect id="矩形备份-17" x="214" y="60" width="16" height="16" rx="0.5"></rect>
+        </g>
+    </g>
+</svg>

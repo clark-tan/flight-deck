@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="216px" viewBox="0 0 372 216" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 15</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#4A9AEC" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-3">
+            <stop stop-color="#4A9AEC" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-4">
+            <stop stop-color="#4A9AEC" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-5">
+            <stop stop-color="#4A9AEC" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-6">
+            <stop stop-color="#4A9AEC" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-7">
+            <stop stop-color="#4A9AEC" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.3">
+        <g id="数据大屏/图表空1" transform="translate(-1403.000000, -343.000000)">
+            <g id="编组-4" transform="translate(1403.000000, 343.000000)" filter="url(#filter-1)">
+                <g>
+                    <g id="编组-26备份">
+                        <polygon id="Rectangle-3备份" fill="#FFFFFF" opacity="0.15" points="48 194 372 194 372 195 48 195"></polygon>
+                        <polygon id="Rectangle-3备份-2" fill="#FFFFFF" opacity="0.15" points="48 162 372 162 372 163 48 163"></polygon>
+                        <polygon id="Rectangle-3备份-3" fill="#FAF475" points="48 130 372 130 372 131 48 131"></polygon>
+                        <polygon id="Rectangle-3备份-4" fill="#FFFFFF" opacity="0.15" points="48 99 372 99 372 100 48 100"></polygon>
+                        <polygon id="Rectangle-3备份-5" fill="#FFFFFF" opacity="0.15" points="48 67 372 67 372 68 48 68"></polygon>
+                        <polygon id="Rectangle-3备份-6" fill="#FFFFFF" opacity="0.15" points="48 35 372 35 372 36 48 36"></polygon>
+                        <polygon id="Rectangle-8-Copy-2备份-4" fill="#FFFFFF" opacity="0.15" points="47 4.69181985e-13 48 4.69181985e-13 48 195 47 195"></polygon>
+                        <text id="字体/12px/333/中" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                            <tspan x="64" y="215.833789">12</tspan>
+                        </text>
+                        <text id="字体/12px/333/中备份" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                            <tspan x="104" y="216">21-01</tspan>
+                        </text>
+                        <text id="字体/12px/333/中备份-2" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                            <tspan x="164" y="215.833789">02</tspan>
+                        </text>
+                        <text id="字体/12px/333/中备份-3" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                            <tspan x="214" y="215.833789">03</tspan>
+                        </text>
+                        <text id="字体/12px/333/中备份-4" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                            <tspan x="264" y="215.833789">04</tspan>
+                        </text>
+                        <text id="字体/12px/333/中备份-5" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                            <tspan x="314" y="216">05</tspan>
+                        </text>
+                        <text id="字体/12px/333/右" opacity="0.6" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                            <tspan x="0" y="167.833789">000.00</tspan>
+                        </text>
+                        <text id="字体/12px/333/右" opacity="0.6" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                            <tspan x="0" y="136.833789">000.00</tspan>
+                        </text>
+                        <text id="字体/12px/333/右" opacity="0.6" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                            <tspan x="0" y="105.833789">000.00</tspan>
+                        </text>
+                        <text id="字体/12px/333/右" opacity="0.6" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                            <tspan x="0" y="72.8337889">000.00</tspan>
+                        </text>
+                        <text id="字体/12px/333/右" opacity="0.6" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                            <tspan x="0" y="40.8337889">000.00</tspan>
+                        </text>
+                        <text id="字体/12px/333/右备份-2" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                            <tspan x="344" y="216">月份</tspan>
+                        </text>
+                    </g>
+                    <g id="编组-65" transform="translate(62.000000, 154.000000)" fill="url(#linearGradient-2)" opacity="0.8">
+                        <rect id="矩形备份-7" x="0" y="0" width="20" height="40"></rect>
+                    </g>
+                    <polygon id="矩形备份-18" fill="url(#linearGradient-3)" opacity="0.8" points="114 98 134 98 134 194 114 194"></polygon>
+                    <g id="编组-61" transform="translate(163.000000, 122.000000)" fill="url(#linearGradient-4)" opacity="0.8">
+                        <polygon id="矩形备份-44" points="0 5.51558799e-13 20 5.51558799e-13 20 72 0 72"></polygon>
+                    </g>
+                    <g id="编组-63" transform="translate(263.000000, 76.000000)" fill="url(#linearGradient-5)" opacity="0.8">
+                        <polygon id="矩形备份-48" points="0 5.36716505e-13 20 5.36716505e-13 20 118 0 118"></polygon>
+                    </g>
+                    <g id="编组-64" transform="translate(312.000000, 139.000000)" fill="url(#linearGradient-6)" opacity="0.8">
+                        <polygon id="矩形备份-50" points="0 1.95399252e-13 20 1.95399252e-13 20 55 0 55"></polygon>
+                    </g>
+                    <g id="编组-62" transform="translate(212.000000, 59.000000)" fill="url(#linearGradient-7)" opacity="0.8">
+                        <polygon id="矩形备份-46" points="0 6.40737463e-13 20 6.40737463e-13 20 135 0 135"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

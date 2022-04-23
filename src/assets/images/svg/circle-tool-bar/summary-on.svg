@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="50px" viewBox="0 0 51 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sel总览</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.8306381%" id="linearGradient-1">
+            <stop stop-color="#4EFEF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4ECAFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="47.1871724%" id="linearGradient-2">
+            <stop stop-color="#4EFEF9" offset="0%"></stop>
+            <stop stop-color="#4A9AEC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#A9FFF4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-1247.000000, -1525.000000)">
+            <g id="sel总览" transform="translate(1247.742843, 1525.000000)">
+                <circle id="椭圆形备份" fill="url(#linearGradient-1)" opacity="0.6" cx="25" cy="25" r="25"></circle>
+                <circle id="椭圆形备份-8" stroke="url(#linearGradient-2)" cx="25" cy="25" r="24.5"></circle>
+                <path d="M24.4986475,11 L24.4996475,26 L39.4996475,26 C39.4996475,34.2842712 32.7839188,41 24.4996475,41 C16.2153763,41 9.49964754,34.2842712 9.49964754,26 C9.49964754,17.8205929 16.0464339,11.1702698 24.1858194,11.0032178 L24.4986475,11 Z M26.4996475,9 C34.6790546,9 41.3293778,15.5467864 41.4964298,23.6861718 L41.4996475,24 L26.4996475,24 L26.4996475,9 Z" id="形状结合" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

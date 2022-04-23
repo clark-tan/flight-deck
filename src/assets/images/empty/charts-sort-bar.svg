@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="348px" height="188px" viewBox="0 0 348 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>预约渠道</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#4A9AEC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4A9AEC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-3">
+            <stop stop-color="#4EFEF9" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-4">
+            <stop stop-color="#4A9AEC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4A9AEC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-5">
+            <stop stop-color="#4A9AEC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4A9AEC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-6">
+            <stop stop-color="#4A9AEC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4A9AEC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-7">
+            <stop stop-color="#4A9AEC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4A9AEC" offset="100%"></stop>
+        </linearGradient>
+        <filter color-interpolation-filters="auto" id="filter-8">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.258824 0 0 0 0 0.925490 0 0 0 0 0.933333 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="管理驾驶舱V1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.3">
+        <g id="数据大屏/图表空1" transform="translate(-1407.000000, -1194.000000)">
+            <g id="编组-19" transform="translate(1407.000000, 1194.000000)" filter="url(#filter-1)">
+                <g>
+                    <g id="编组-10">
+                        <line x1="327.5" y1="160.714286" x2="327.5" y2="157.285714" id="直线-6备份-5" stroke="#FFFFFF" opacity="0.15" stroke-linecap="square"></line>
+                        <path d="M193,98 C195.209139,98 197,99.790861 197,102 L197,256 C197,258.209139 195.209139,260 193,260 C190.790861,260 189,258.209139 189,256 L189,102 C189,99.790861 190.790861,98 193,98 Z" id="矩形备份-10" fill="#FFFFFF" opacity="0.15" transform="translate(193.000000, 179.000000) rotate(90.000000) translate(-193.000000, -179.000000) "></path>
+                        <path d="M128,163 C130.209139,163 132,164.790861 132,167 L132,191 C132,193.209139 130.209139,195 128,195 C125.790861,195 124,193.209139 124,191 L124,167 C124,164.790861 125.790861,163 128,163 Z" id="矩形备份-9" fill="url(#linearGradient-2)" transform="translate(128.000000, 179.000000) rotate(90.000000) translate(-128.000000, -179.000000) "></path>
+                        <text id="字体/14px/白/左备份-11" opacity="0.6" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="16" fill="#FFFFFF">
+                            <tspan x="0" y="188"># # # # #</tspan>
+                        </text>
+                        <text id="字体/14px/白/左" font-family="DIN-Regular, DIN" font-size="18" font-weight="normal" line-spacing="18" letter-spacing="-0.7" fill="#FFFFFF">
+                            <tspan x="300" y="188">000.00</tspan>
+                        </text>
+                        <path d="M193,-72 C195.209139,-72 197,-70.209139 197,-68 L197,86 C197,88.209139 195.209139,90 193,90 C190.790861,90 189,88.209139 189,86 L189,-68 C189,-70.209139 190.790861,-72 193,-72 Z" id="矩形" fill="#FFFFFF" opacity="0.15" transform="translate(193.000000, 9.000000) rotate(90.000000) translate(-193.000000, -9.000000) "></path>
+                        <path d="M191.5,-70.5 C193.709139,-70.5 195.5,-68.709139 195.5,-66.5 L195.5,84.5 C195.5,86.709139 193.709139,88.5 191.5,88.5 C189.290861,88.5 187.5,86.709139 187.5,84.5 L187.5,-66.5 C187.5,-68.709139 189.290861,-70.5 191.5,-70.5 Z" id="矩形" fill="url(#linearGradient-3)" transform="translate(191.500000, 9.000000) rotate(90.000000) translate(-191.500000, -9.000000) "></path>
+                        <text id="字体/14px/白/左" font-family="DIN-Regular, DIN" font-size="18" font-weight="normal" line-spacing="18" letter-spacing="-0.7" fill="#4EFEF9">
+                            <tspan x="300" y="18">000.00</tspan>
+                        </text>
+                        <text id="字体/12px/333/右" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="16" fill="#4EFEF9">
+                            <tspan x="0" y="18"># # # # #</tspan>
+                        </text>
+                        <path d="M193,-38 C195.209139,-38 197,-36.209139 197,-34 L197,120 C197,122.209139 195.209139,124 193,124 C190.790861,124 189,122.209139 189,120 L189,-34 C189,-36.209139 190.790861,-38 193,-38 Z" id="矩形备份-10" fill="#FFFFFF" opacity="0.15" transform="translate(193.000000, 43.000000) rotate(90.000000) translate(-193.000000, -43.000000) "></path>
+                        <path d="M175.5,-20.5 C177.709139,-20.5 179.5,-18.709139 179.5,-16.5 L179.5,102.5 C179.5,104.709139 177.709139,106.5 175.5,106.5 C173.290861,106.5 171.5,104.709139 171.5,102.5 L171.5,-16.5 C171.5,-18.709139 173.290861,-20.5 175.5,-20.5 Z" id="矩形备份-9" fill="url(#linearGradient-4)" transform="translate(175.500000, 43.000000) rotate(90.000000) translate(-175.500000, -43.000000) "></path>
+                        <text id="字体/14px/白/左" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="16" fill="#FFFFFF">
+                            <tspan x="0" y="52"># # # # #</tspan>
+                        </text>
+                        <text id="字体/14px/白/左" font-family="DIN-Regular, DIN" font-size="18" font-weight="normal" line-spacing="18" letter-spacing="-0.7" fill="#FFFFFF">
+                            <tspan x="300" y="52">000.00</tspan>
+                        </text>
+                        <path d="M193,64 C195.209139,64 197,65.790861 197,68 L197,222 C197,224.209139 195.209139,226 193,226 C190.790861,226 189,224.209139 189,222 L189,68 C189,65.790861 190.790861,64 193,64 Z" id="矩形备份-10" fill="#FFFFFF" opacity="0.15" transform="translate(193.000000, 145.000000) rotate(90.000000) translate(-193.000000, -145.000000) "></path>
+                        <path d="M138,119 C140.209139,119 142,120.790861 142,123 L142,167 C142,169.209139 140.209139,171 138,171 C135.790861,171 134,169.209139 134,167 L134,123 C134,120.790861 135.790861,119 138,119 Z" id="矩形备份-9" fill="url(#linearGradient-5)" transform="translate(138.000000, 145.000000) rotate(90.000000) translate(-138.000000, -145.000000) "></path>
+                        <text id="字体/14px/白/左" opacity="0.6" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="16" fill="#FFFFFF">
+                            <tspan x="0" y="154"># # # # #</tspan>
+                        </text>
+                        <text id="字体/14px/白/左" font-family="DIN-Regular, DIN" font-size="18" font-weight="normal" line-spacing="18" letter-spacing="-0.7" fill="#FFFFFF">
+                            <tspan x="300" y="154">000.00</tspan>
+                        </text>
+                        <path d="M193,-4 C195.209139,-4 197,-2.209139 197,0 L197,154 C197,156.209139 195.209139,158 193,158 C190.790861,158 189,156.209139 189,154 L189,0 C189,-2.209139 190.790861,-4 193,-4 Z" id="矩形备份-11" fill="#FFFFFF" opacity="0.15" transform="translate(193.000000, 77.000000) rotate(90.000000) translate(-193.000000, -77.000000) "></path>
+                        <path d="M163.5,25.5 C165.709139,25.5 167.5,27.290861 167.5,29.5 L167.5,124.5 C167.5,126.709139 165.709139,128.5 163.5,128.5 C161.290861,128.5 159.5,126.709139 159.5,124.5 L159.5,29.5 C159.5,27.290861 161.290861,25.5 163.5,25.5 Z" id="矩形备份-12" fill="url(#linearGradient-6)" transform="translate(163.500000, 77.000000) rotate(90.000000) translate(-163.500000, -77.000000) "></path>
+                        <text id="字体/14px/白/左" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="16" fill="#FFFFFF">
+                            <tspan x="0" y="86"># # # # #</tspan>
+                        </text>
+                        <text id="字体/14px/白/左" font-family="DIN-Regular, DIN" font-size="18" font-weight="normal" line-spacing="18" letter-spacing="-0.7" fill="#FFFFFF">
+                            <tspan x="300" y="86">000.00</tspan>
+                        </text>
+                        <path d="M193,30 C195.209139,30 197,31.790861 197,34 L197,188 C197,190.209139 195.209139,192 193,192 C190.790861,192 189,190.209139 189,188 L189,34 C189,31.790861 190.790861,30 193,30 Z" id="矩形备份-14" fill="#FFFFFF" opacity="0.15" transform="translate(193.000000, 111.000000) rotate(90.000000) translate(-193.000000, -111.000000) "></path>
+                        <path d="M153.5,69.5 C155.709139,69.5 157.5,71.290861 157.5,73.5 L157.5,148.5 C157.5,150.709139 155.709139,152.5 153.5,152.5 C151.290861,152.5 149.5,150.709139 149.5,148.5 L149.5,73.5 C149.5,71.290861 151.290861,69.5 153.5,69.5 Z" id="矩形备份-16" fill="url(#linearGradient-7)" transform="translate(153.500000, 111.000000) rotate(90.000000) translate(-153.500000, -111.000000) "></path>
+                        <text id="字体/14px/白/左" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="16" fill="#FFFFFF">
+                            <tspan x="0" y="120"># # # # #</tspan>
+                        </text>
+                        <text id="字体/14px/白/左" font-family="DIN-Regular, DIN" font-size="18" font-weight="normal" line-spacing="18" letter-spacing="-0.7" fill="#FFFFFF">
+                            <tspan x="300" y="120">000.00</tspan>
+                        </text>
+                    </g>
+                    <g id="编组-18" transform="translate(0.000000, 170.000000)">
+                        <g id="字体/14px/白/左备份-97" transform="translate(299.000000, 0.000000)"></g>
+                    </g>
+                    <g id="字体/14px/白/左备份-96" filter="url(#filter-8)">
+                        <g transform="translate(290.000000, 0.000000)"></g>
+                    </g>
+                    <g id="编组-3" transform="translate(0.000000, 34.000000)">
+                        <g id="字体/14px/白/左备份-92" opacity="0.6" transform="translate(0.000000, 1.000000)"></g>
+                        <g id="字体/14px/白/左备份-93" transform="translate(290.000000, 0.000000)"></g>
+                    </g>
+                    <g id="编组-17" transform="translate(0.000000, 136.000000)">
+                        <g id="字体/14px/白/左备份-91" transform="translate(290.000000, 0.000000)"></g>
+                    </g>
+                    <g id="编组-5" transform="translate(0.000000, 68.000000)">
+                        <g id="字体/14px/白/左备份-73" opacity="0.6" transform="translate(0.000000, 1.000000)"></g>
+                        <g id="字体/14px/白/左备份-83" transform="translate(290.000000, 0.000000)"></g>
+                    </g>
+                    <g id="编组-15" transform="translate(0.000000, 102.000000)">
+                        <g id="字体/14px/白/左备份-94" opacity="0.6" transform="translate(0.000000, 1.000000)"></g>
+                        <g id="字体/14px/白/左备份-95" transform="translate(290.000000, 0.000000)"></g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

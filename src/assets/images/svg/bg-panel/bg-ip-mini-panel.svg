@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="336px" height="542px" viewBox="0 0 336 542" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>住院详情</title>
+    <defs>
+        <linearGradient x1="68.5455147%" y1="-1.25865799%" x2="31.9534583%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3AE0E0" offset="0%"></stop>
+            <stop stop-color="#13B1DE" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-4.2%" y="-2.5%" width="108.4%" height="105.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="68.5455147%" y1="-1.25865799%" x2="31.9534583%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#3AE0E0" offset="0.0273164336%"></stop>
+            <stop stop-color="#1CAEAE" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-3.1%" y="-1.8%" width="106.1%" height="103.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="68.5455147%" y1="-1.25865799%" x2="31.9534583%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#3AE0E0" offset="0%"></stop>
+            <stop stop-color="#2EADCB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="34.5885809%" y1="0%" x2="68.766948%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#87F2FE" offset="0%"></stop>
+            <stop stop-color="#31A6A6" offset="29.48809%"></stop>
+            <stop stop-color="#8DE1FF" offset="59.3504152%"></stop>
+            <stop stop-color="#2EADCB" offset="77.9310533%"></stop>
+            <stop stop-color="#1A8B88" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="103.145264%" y1="50.0154508%" x2="-1.99340262%" y2="50.0154503%" id="linearGradient-7">
+            <stop stop-color="#28F8C5" stop-opacity="0.336838942" offset="0%"></stop>
+            <stop stop-color="#37E8E5" stop-opacity="0.906634285" offset="93.2281584%"></stop>
+            <stop stop-color="#39E5EA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-22.1590458%" y1="-155.844327%" x2="118.43566%" y2="-155.844327%" id="linearGradient-8">
+            <stop stop-color="#25ABAE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#9EFCFF" offset="51.9501273%"></stop>
+            <stop stop-color="#229EAA" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="98.2966889%" y1="16.6845724%" x2="10.314376%" y2="121.533448%" id="linearGradient-9">
+            <stop stop-color="#39E5EA" offset="0%"></stop>
+            <stop stop-color="#229698" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.472929%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#27F8C5" offset="0%"></stop>
+            <stop stop-color="#1F9295" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.9">
+        <g id="切图" transform="translate(-1587.000000, -509.000000)">
+            <g id="住院详情" transform="translate(1593.926357, 517.000000)">
+                <polygon id="矩形" opacity="0.200513263" points="0.0736433481 1.66384267e-13 322.073643 1.66384267e-13 322.073643 527 0.0736433481 527"></polygon>
+                <polygon id="路径-6" fill="#07524D" opacity="0.6" points="6.07364335 154 6.07364335 13.8625322 20.1552003 5 240.573643 5 303.592285 5 316.073643 13.8625322 316.073643 154"></polygon>
+                <polygon id="路径-5" stroke="url(#linearGradient-1)" stroke-width="2" fill="#002B3A" opacity="0.5" filter="url(#filter-2)" points="20.1552003 5 6.07364335 19.1056131 6.07364335 509.388738 20.1552003 521 112.573643 521 124.209253 512.5 217.229516 512.5 229.472566 521 303.592285 521 316.073643 509.388738 316.073643 19.1056131 303.592285 5"></polygon>
+                <polygon id="路径-5" stroke="url(#linearGradient-3)" filter="url(#filter-4)" points="20.1552003 5 6.07364335 19.1056131 6.07364335 509.388738 20.1552003 521 112.573643 521 124.209253 512.5 217.229516 512.5 229.472566 521 303.592285 521 316.073643 509.388738 316.073643 19.1056131 303.592285 5"></polygon>
+                <polygon id="路径-5" stroke="url(#linearGradient-5)" opacity="0.582757994" points="20.1552003 5 6.07364335 19.1056131 6.07364335 509.388738 20.1552003 521 112.573643 521 124.209253 512.5 217.229516 512.5 229.472566 521 303.592285 521 316.073643 509.388738 316.073643 19.1056131 303.592285 5"></polygon>
+                <polygon id="路径-5" stroke="url(#linearGradient-6)" fill="#002B3A" opacity="0.5" points="20.1552003 5 6.07364335 19.1056131 6.07364335 509.388738 20.1552003 521 112.573643 521 124.209253 512.5 217.229516 512.5 229.472566 521 303.592285 521 316.073643 509.388738 316.073643 19.1056131 303.592285 5"></polygon>
+                <line x1="6.07364335" y1="154" x2="316.073643" y2="154" id="路径-7" stroke="url(#linearGradient-7)" opacity="0.515488735"></line>
+                <polygon id="路径-10" fill="#36E9E4" opacity="0.6" points="18.3464117 4.47581056 5.53941563 17.1984302 5.53941563 4.47581056"></polygon>
+                <polygon id="路径-10备份" fill="#26FAC2" opacity="0.6" transform="translate(311.272311, 10.351776) rotate(-270.000000) translate(-311.272311, -10.351776) " points="317.14553 5.01836429 305.399092 15.6851877 305.399092 5.01836429"></polygon>
+                <polygon id="路径-11" fill="#35E9E3" opacity="0.292514535" points="112.573643 521.648216 124.209253 513.148216 217.229516 513.148216 229.472566 521.648216"></polygon>
+                <line x1="215.573643" y1="512.5" x2="125.573643" y2="512.5" id="路径-16" stroke="url(#linearGradient-8)" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="-7.55227053e-14" y1="135" x2="6.07364335" y2="128.182617" id="路径-14" stroke="url(#linearGradient-9)" stroke-width="0.8" stroke-linecap="round"></line>
+                <polyline id="路径-12" stroke="#39E7E9" stroke-width="0.8" opacity="0.6" points="0 135 0 509 20.5938305 527 110.573643 527 130.055304 512.469238"></polyline>
+                <polygon id="路径-13" fill="#10919C" points="0.0736433481 509.712911 6.07364335 509.712911 20.1552003 521 20.1552003 527"></polygon>
+                <polyline id="路径-12" stroke="#39E7E9" stroke-width="0.8" opacity="0.6" transform="translate(266.661957, 331.000000) scale(-1, 1) translate(-266.661957, -331.000000) " points="211.681424 135 211.681424 509 232.275254 527 301.445326 527 321.642491 512.469238"></polyline>
+                <polygon id="路径-13" fill="#31EED9" opacity="0.488917151" transform="translate(311.561152, 517.936175) scale(-1, 1) translate(-311.561152, -517.936175) " points="301.048661 508.872351 307.048661 508.872351 319.530018 521 322.073643 527"></polygon>
+                <line x1="316.073643" y1="135" x2="321.642491" y2="125.029154" id="路径-15" stroke="url(#linearGradient-10)" stroke-linecap="round" transform="translate(318.858067, 130.014577) scale(-1, 1) translate(-318.858067, -130.014577) "></line>
+            </g>
+        </g>
+    </g>
+</svg>

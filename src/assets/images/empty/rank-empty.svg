@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="348px" height="179px" viewBox="0 0 348 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 20</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="管理驾驶舱V1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.3">
+        <g id="数据大屏/图表空1" transform="translate(-826.000000, -1204.000000)">
+            <g id="编组-9" transform="translate(826.000000, 1205.000000)" filter="url(#filter-1)">
+                <g>
+                    <text id="000.00" font-family="DINAlternate-Bold, DIN Alternate" font-size="18" font-weight="bold" line-spacing="18" fill="#FFFFFF">
+                        <tspan x="300" y="23">000.00</tspan>
+                    </text>
+                    <text id="000.00" font-family="DINAlternate-Bold, DIN Alternate" font-size="18" font-weight="bold" line-spacing="18" fill="#FFFFFF">
+                        <tspan x="300" y="61">000.00</tspan>
+                    </text>
+                    <text id="000.00" font-family="DINAlternate-Bold, DIN Alternate" font-size="18" font-weight="bold" line-spacing="18" fill="#FFFFFF">
+                        <tspan x="300" y="99">000.00</tspan>
+                    </text>
+                    <text id="000.00" opacity="0.6" font-family="DIN-Regular, DIN" font-size="18" font-weight="normal" line-spacing="18" letter-spacing="-0.7" fill="#FFFFFF">
+                        <tspan x="300" y="137">000.00</tspan>
+                    </text>
+                    <text id="000.00" opacity="0.6" font-family="DIN-Regular, DIN" font-size="18" font-weight="normal" line-spacing="18" letter-spacing="-0.7" fill="#FFFFFF">
+                        <tspan x="300" y="175">000.00</tspan>
+                    </text>
+                    <text id="字体/14px/白/左备份" opacity="0.6" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                        <tspan x="56" y="22"># # # # # </tspan>
+                    </text>
+                    <text id="字体/14px/白/左备份-2" opacity="0.6" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                        <tspan x="56" y="60"># # # # #</tspan>
+                    </text>
+                    <text id="字体/14px/白/左备份-3" opacity="0.6" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                        <tspan x="56" y="98"># # # # #</tspan>
+                    </text>
+                    <text id="字体/14px/白/左备份-4" opacity="0.6" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                        <tspan x="56" y="136"># # # # #</tspan>
+                    </text>
+                    <text id="字体/14px/白/左备份-5" opacity="0.6" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                        <tspan x="56" y="174"># # # # #</tspan>
+                    </text>
+                    <g id="编组-6">
+                        <g id="编组-7" stroke-linejoin="round">
+                            <polygon id="多边形" stroke="#35BDBE" stroke-width="1.17834502" opacity="0.5" points="20 0 37.3205081 7 37.3205081 21 20 28 2.67949192 21 2.67949192 7"></polygon>
+                            <path d="M2.67949192,16.4365051 L2.67949192,16.3428814 M17.630798,0.957501575 L20,0 L22.2625566,0.914401369 M23.9151425,1.58228602 L24.0208839,1.62502088 M37.3205081,16.8924505 L37.3205081,17.0373055 M37.3205081,18.6846365 L37.3205081,21 L35.4035324,21.7747365 M4.77628316,21.8474081 L2.67949192,21 L2.67949192,18.3427175" id="形状" stroke="#61FDFF" stroke-width="1.17834502" stroke-linecap="round"></path>
+                            <polygon id="多边形" stroke="#35BDBE" stroke-width="0.589172511" fill="#42ECEE" opacity="0.486623365" points="20 3.11111111 33.4715063 8.55555556 33.4715063 19.4444444 20 24.8888889 6.52849372 19.4444444 6.52849372 8.55555556"></polygon>
+                        </g>
+                        <text id="01" font-family="Futura-MediumItalic, Futura" font-size="16.52" font-style="italic" font-weight="400" line-spacing="14.16" fill="#FFFFFF">
+                            <tspan x="10" y="24">01</tspan>
+                        </text>
+                    </g>
+                    <g id="编组-6备份-2" transform="translate(0.000000, 38.000000)">
+                        <g id="编组-7" stroke-linejoin="round">
+                            <polygon id="多边形" stroke="#35BDBE" stroke-width="1.17834502" opacity="0.5" points="20 0 37.3205081 7 37.3205081 21 20 28 2.67949192 21 2.67949192 7"></polygon>
+                            <path d="M2.67949192,16.4365051 L2.67949192,16.3428814 M17.630798,0.957501575 L20,0 L22.2625566,0.914401369 M23.9151425,1.58228602 L24.0208839,1.62502088 M37.3205081,16.8924505 L37.3205081,17.0373055 M37.3205081,18.6846365 L37.3205081,21 L35.4035324,21.7747365 M4.77628316,21.8474081 L2.67949192,21 L2.67949192,18.3427175" id="形状" stroke="#61FDFF" stroke-width="1.17834502" stroke-linecap="round"></path>
+                            <polygon id="多边形" stroke="#35BDBE" stroke-width="0.589172511" fill="#42ECEE" opacity="0.486623365" points="20 3.11111111 33.4715063 8.55555556 33.4715063 19.4444444 20 24.8888889 6.52849372 19.4444444 6.52849372 8.55555556"></polygon>
+                        </g>
+                        <text id="02" font-family="Futura-MediumItalic, Futura" font-size="16.52" font-style="italic" font-weight="400" line-spacing="14.16" fill="#FFFFFF">
+                            <tspan x="9" y="23">02</tspan>
+                        </text>
+                    </g>
+                    <g id="编组-6备份-3" transform="translate(0.000000, 76.000000)">
+                        <g id="编组-7" stroke-linejoin="round">
+                            <polygon id="多边形" stroke="#35BDBE" stroke-width="1.17834502" opacity="0.5" points="20 0 37.3205081 7 37.3205081 21 20 28 2.67949192 21 2.67949192 7"></polygon>
+                            <path d="M2.67949192,16.4365051 L2.67949192,16.3428814 M17.630798,0.957501575 L20,0 L22.2625566,0.914401369 M23.9151425,1.58228602 L24.0208839,1.62502088 M37.3205081,16.8924505 L37.3205081,17.0373055 M37.3205081,18.6846365 L37.3205081,21 L35.4035324,21.7747365 M4.77628316,21.8474081 L2.67949192,21 L2.67949192,18.3427175" id="形状" stroke="#61FDFF" stroke-width="1.17834502" stroke-linecap="round"></path>
+                            <polygon id="多边形" stroke="#35BDBE" stroke-width="0.589172511" fill="#42ECEE" opacity="0.486623365" points="20 3.11111111 33.4715063 8.55555556 33.4715063 19.4444444 20 24.8888889 6.52849372 19.4444444 6.52849372 8.55555556"></polygon>
+                        </g>
+                        <text id="03" font-family="Futura-MediumItalic, Futura" font-size="16.52" font-style="italic" font-weight="400" line-spacing="14.16" fill="#FFFFFF">
+                            <tspan x="9" y="23">03</tspan>
+                        </text>
+                    </g>
+                    <polygon id="多边形" stroke="#35BDBE" stroke-width="0.589172511" fill="#42ECEE" opacity="0.161291788" stroke-linejoin="round" points="20 118.111111 33.4715063 123.555556 33.4715063 134.444444 20 139.888889 6.52849372 134.444444 6.52849372 123.555556"></polygon>
+                    <polygon id="多边形备份-3" stroke="#35BDBE" stroke-width="0.589172511" fill="#42ECEE" opacity="0.161291788" stroke-linejoin="round" points="20 155.111111 33.4715063 160.555556 33.4715063 171.444444 20 176.888889 6.52849372 171.444444 6.52849372 160.555556"></polygon>
+                    <text id="04备份" opacity="0.798510174" font-family="Futura-MediumItalic, Futura" font-size="14" font-style="italic" font-weight="400" line-spacing="14" fill="#4EFEF9">
+                        <tspan x="11" y="136">04</tspan>
+                    </text>
+                    <text id="05备份" opacity="0.798510174" font-family="Futura-MediumItalic, Futura" font-size="14" font-style="italic" font-weight="400" line-spacing="14" fill="#4EFEF9">
+                        <tspan x="11" y="174">05</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

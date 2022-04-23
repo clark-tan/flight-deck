@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="903px" height="111px" viewBox="0 0 903 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>展开背景备份</title>
+    <defs>
+        <path d="M439.027521,0.00309449243 C628.407743,0.00309449243 793.196853,40.0121797 878.053045,99.0004637 L0.00199566241,99.0004637 C84.8581879,40.0121797 249.647298,0.00309449243 439.027521,0.00309449243 Z" id="path-1"></path>
+        <filter x="-0.8%" y="-7.1%" width="101.6%" height="114.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="6.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.305882353   0 0 0 0 0.996078431   0 0 0 0 0.976470588  0 0 0 0.18045236 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="78.0229596%" y1="8.93115224%" x2="22.3386284%" y2="8.93115224%" id="linearGradient-3">
+            <stop stop-color="#4EFEF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" offset="49.8429568%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-1.4%" y="-12.1%" width="102.7%" height="124.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="首页导航方案设计" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1北大国际医院总览切图" transform="translate(-64.000000, -141.000000)">
+            <g id="展开背景备份" transform="translate(76.038400, 152.996906)">
+                <g id="形状结合">
+                    <use fill="#002F41" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+                <path d="M440.020877,0.500367117 C627.881677,0.639233723 791.422315,40.1509727 876.453297,98.5001446 L876.453297,98.5001446 L1.60115827,98.5005467 C86.7818231,40.0483249 250.749522,0.5 439.027521,0.5 L436.135,0.505 Z" id="形状结合" stroke="url(#linearGradient-3)" filter="url(#filter-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

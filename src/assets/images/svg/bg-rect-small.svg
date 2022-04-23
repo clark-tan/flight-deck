@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="396px" height="525px" viewBox="0 0 396 525" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>住院人数</title>
+    <defs>
+        <filter x="-15.0%" y="-10.7%" width="130.0%" height="121.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="14" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.00634201336   0 0 0 0 0.121218469   0 0 0 0 0.164685236  0 0 0 0.713477928 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="73.2779273%" y1="-1.25865799%" x2="27.3483728%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#3AE0E0" offset="0%"></stop>
+            <stop stop-color="#13B1DE" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-4.6%" y="-3.1%" width="109.3%" height="106.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="73.2779273%" y1="-1.25865799%" x2="27.3483728%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#3AE0E0" offset="0.0273164336%"></stop>
+            <stop stop-color="#1CAEAE" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-3.4%" y="-2.3%" width="106.8%" height="104.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="73.2779273%" y1="-1.25865799%" x2="27.3483728%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#3AE0E0" offset="0%"></stop>
+            <stop stop-color="#2EADCB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="26.5424188%" y1="-1.31030918%" x2="64.6243799%" y2="62.2926047%" id="linearGradient-7">
+            <stop stop-color="#4FB0B0" offset="0%"></stop>
+            <stop stop-color="#88F7FD" offset="12.4112275%"></stop>
+            <stop stop-color="#136480" offset="49.3881119%"></stop>
+            <stop stop-color="#85DFDF" offset="70.0338724%"></stop>
+            <stop stop-color="#085168" offset="99.9508304%"></stop>
+        </linearGradient>
+        <linearGradient x1="103.145264%" y1="50.0189391%" x2="-1.99340262%" y2="50.0189385%" id="linearGradient-8">
+            <stop stop-color="#28F8C5" stop-opacity="0.336838942" offset="0%"></stop>
+            <stop stop-color="#37E8E5" stop-opacity="0.906634285" offset="93.2281584%"></stop>
+            <stop stop-color="#39E5EA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="98.2966889%" y1="16.6845724%" x2="10.314376%" y2="121.533448%" id="linearGradient-9">
+            <stop stop-color="#39E5EA" offset="0%"></stop>
+            <stop stop-color="#229698" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.472929%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#27F8C5" offset="0%"></stop>
+            <stop stop-color="#1F9295" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.95189295%" y1="-155.844327%" x2="100%" y2="-155.844327%" id="linearGradient-11">
+            <stop stop-color="#25ABAE" offset="0%"></stop>
+            <stop stop-color="#9EFCFF" offset="51.9501273%"></stop>
+            <stop stop-color="#229EAA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.9">
+        <g id="切图" transform="translate(-1175.000000, -569.000000)">
+            <g id="住院人数" filter="url(#filter-1)" transform="translate(1211.285012, 605.000000)">
+                <path d="M2,0 L321.429975,0 C322.534545,-2.02906125e-16 323.429975,0.8954305 323.429975,2 L323.429975,451 C323.429975,452.104569 322.534545,453 321.429975,453 L2,453 C0.8954305,453 1.3527075e-16,452.104569 0,451 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="矩形" opacity="0.3"></path>
+                <polygon id="矩形" opacity="0.200513263" points="15.7149877 13 307.714988 13 307.714988 440 15.7149877 440"></polygon>
+                <polygon id="路径-6" fill="#07524D" opacity="0.6" points="21.7149877 68 21.7149877 26.8625322 35.7965446 18 236.214988 18 289.23363 18 301.714988 26.8625322 301.714988 68"></polygon>
+                <polygon id="路径-5" stroke="url(#linearGradient-2)" stroke-width="2" fill="#011A20" opacity="0.5" filter="url(#filter-3)" points="35.7965446 18 21.7149877 32.1056131 21.7149877 422.388738 35.7965446 434 118.214988 434 129.850598 425.5 212.870861 425.5 225.11391 434 289.23363 434 301.714988 422.388738 301.714988 32.1056131 289.23363 18"></polygon>
+                <polygon id="路径-5" stroke="url(#linearGradient-4)" filter="url(#filter-5)" points="35.7965446 18 21.7149877 32.1056131 21.7149877 422.388738 35.7965446 434 118.214988 434 129.850598 425.5 212.870861 425.5 225.11391 434 289.23363 434 301.714988 422.388738 301.714988 32.1056131 289.23363 18"></polygon>
+                <polygon id="路径-5" stroke="url(#linearGradient-6)" opacity="0.643713663" points="35.7965446 18 21.7149877 32.1056131 21.7149877 422.388738 35.7965446 434 118.214988 434 129.850598 425.5 212.870861 425.5 225.11391 434 289.23363 434 301.714988 422.388738 301.714988 32.1056131 289.23363 18"></polygon>
+                <polygon id="路径-5" stroke="url(#linearGradient-7)" points="35.7965446 18 21.7149877 32.1056131 21.7149877 422.388738 35.7965446 434 118.214988 434 129.850598 425.5 212.870861 425.5 225.11391 434 289.23363 434 301.714988 422.388738 301.714988 32.1056131 289.23363 18"></polygon>
+                <line x1="21.7149877" y1="68" x2="301.714988" y2="68" id="路径-7" stroke="url(#linearGradient-8)" opacity="0.515488735"></line>
+                <polygon id="路径-10" fill="#36E9E4" opacity="0.6" points="33.9877561 17.4758106 21.18076 30.1984302 21.18076 17.4758106"></polygon>
+                <polygon id="路径-10备份" fill="#26FAC2" opacity="0.6" transform="translate(296.913655, 23.351776) rotate(-270.000000) translate(-296.913655, -23.351776) " points="302.786874 18.0183643 291.040436 28.6851877 291.040436 18.0183643"></polygon>
+                <polygon id="路径-11" fill="#35E9E3" opacity="0.292514535" points="118.214988 434.648216 129.850598 426.148216 212.870861 426.148216 225.11391 434.648216"></polygon>
+                <line x1="15.6413444" y1="118" x2="21.7149877" y2="111.182617" id="路径-14" stroke="url(#linearGradient-9)" stroke-width="0.8" stroke-linecap="round"></line>
+                <g id="编组-17" transform="translate(15.641344, 118.000000)">
+                    <polyline id="路径-12" stroke="#39E7E9" stroke-width="0.8" opacity="0.6" points="0 0 0 304 20.5938305 322 102.573643 322 122.055304 307.469238"></polyline>
+                    <polygon id="路径-13" fill="#10919C" points="0.0736433481 304.712911 6.07364335 304.712911 20.1552003 316 20.1552003 322"></polygon>
+                </g>
+                <g id="编组-17" transform="translate(256.315866, 274.014577) scale(-1, 1) translate(-256.315866, -274.014577) translate(204.916745, 108.029154)">
+                    <polyline id="路径-12" stroke="#39E7E9" stroke-width="0.8" opacity="0.6" points="0.431152344 9.97084554 0.431152344 313.970846 21.0249828 331.970846 82.6010778 331.970846 102.798243 317.440084"></polyline>
+                    <polygon id="路径-13" fill="#31EED9" opacity="0.488917151" points="0 313.843196 6 313.843196 18.4813579 325.970846 21.0249828 331.970846"></polygon>
+                    <line x1="0.431152344" y1="9.97084554" x2="6" y2="5.32907052e-15" id="路径-15" stroke="url(#linearGradient-10)" stroke-linecap="round"></line>
+                </g>
+                <line x1="204.916745" y1="425.469238" x2="137.696648" y2="425.469238" id="路径-16" stroke="url(#linearGradient-11)" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>功能定位</title>
+    <defs>
+        <linearGradient x1="50%" y1="0.734812063%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#30F7F9" offset="0%"></stop>
+            <stop stop-color="#18B5B7" offset="49.4321329%"></stop>
+            <stop stop-color="#007173" offset="100%"></stop>
+        </linearGradient>
+        <path d="M14,0.866025404 L21.8253175,5.3839746 C22.7535208,5.91987298 23.3253175,6.91025404 23.3253175,7.98205081 L23.3253175,17.0179492 C23.3253175,18.089746 22.7535208,19.080127 21.8253175,19.6160254 L14,24.1339746 C13.0717968,24.669873 11.9282032,24.669873 11,24.1339746 L3.17468245,19.6160254 C2.24647922,19.080127 1.67468245,18.089746 1.67468245,17.0179492 L1.67468245,7.98205081 C1.67468245,6.91025404 2.24647922,5.91987298 3.17468245,5.3839746 L11,0.866025404 C11.9282032,0.330127019 13.0717968,0.330127019 14,0.866025404 Z" id="path-2"></path>
+        <filter x="2.7%" y="-2.1%" width="94.6%" height="104.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.988235294   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-122.000000, -23.000000)">
+            <g id="功能定位" transform="translate(125.000000, 25.000000)">
+                <g id="多边形">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                </g>
+                <path d="M17.1907405,9.31273898 L17.2408744,9.38776638 C17.2409788,9.38795754 17.241083,9.38814877 17.2411871,9.38834007 L17.4801813,9.8275159 C17.6120549,10.0698469 17.5227259,10.373197 17.280566,10.5053845 L13.1704066,12.7482429 L13.1709777,17.1059303 C13.1709777,17.3820727 12.94712,17.6059303 12.6709777,17.6059303 L12.1709777,17.6059303 C11.8948353,17.6059303 11.6709777,17.3820727 11.6709777,17.1059303 L11.6704066,12.7422429 L7.74185919,10.5020533 C7.50290098,10.365824 7.41885335,10.0621649 7.55375847,9.82245658 L7.79877664,9.38709221 C7.93421132,9.14644297 8.23908758,9.06114972 8.47973683,9.19658441 C8.4806585,9.19710312 8.48157853,9.19762475 8.4824969,9.1981493 L12.1798635,11.3099903 C12.3305545,11.3960612 12.5150985,11.39784 12.6674207,11.31469 L16.5624348,9.18846856 C16.7778841,9.07085845 17.0418212,9.12829233 17.1907405,9.31273898 Z" id="形状结合" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+            <rect id="功能定位" x="122" y="23" width="30" height="30" rx="0.5"></rect>
+        </g>
+    </g>
+</svg>

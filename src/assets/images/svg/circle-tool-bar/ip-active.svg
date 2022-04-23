@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>住院选中</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3DA0FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#0062FF" stop-opacity="0.341154939" offset="64.0706949%"></stop>
+            <stop stop-color="#3DA0FF" stop-opacity="0.43198208" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="26.2601909%" y1="6.29388608%" x2="78.0461151%" y2="89.9901638%" id="linearGradient-2">
+            <stop stop-color="#246FF7" offset="0%"></stop>
+            <stop stop-color="#7A9FFF" stop-opacity="0.673912457" offset="22.0962631%"></stop>
+            <stop stop-color="#6AC8FF" stop-opacity="0.215854458" offset="49.9426355%"></stop>
+            <stop stop-color="#4E89FE" offset="86.2297858%"></stop>
+            <stop stop-color="#4E77FE" stop-opacity="0.236150568" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-3" cx="73" cy="72.7009875" rx="73" ry="72.7009875"></ellipse>
+        <filter x="-6.8%" y="-6.1%" width="113.5%" height="113.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1.96" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-8.5%" y="-7.8%" width="117.0%" height="117.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1.4" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.290196078   0 0 0 0 0.603921569   0 0 0 0 0.925490196  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="26.2601909%" y1="6.29388608%" x2="48.0380808%" y2="42.1757507%" id="linearGradient-6">
+            <stop stop-color="#6BB7FF" offset="0%"></stop>
+            <stop stop-color="#4A9AEC" offset="21.6182255%"></stop>
+            <stop stop-color="#4A9AEC" stop-opacity="0.0287368881" offset="48.7461757%"></stop>
+            <stop stop-color="#4A9AEC" stop-opacity="0.281086101" offset="73.789882%"></stop>
+            <stop stop-color="#4A9AEC" stop-opacity="0.73284528" offset="99.9644886%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.617962%" y1="68.9145286%" x2="72.3893879%" y2="95.0711289%" id="linearGradient-7">
+            <stop stop-color="#0F9BFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#0F9BFF" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-8" cx="73" cy="74.6658791" rx="66.0945946" ry="65.8238671"></ellipse>
+        <filter x="-25.3%" y="-24.7%" width="150.7%" height="150.9%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="11" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0588235294   0 0 0 0 0.607843137   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-19.7%" y="-19.0%" width="139.3%" height="139.5%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="4" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.290196078   0 0 0 0 0.603921569   0 0 0 0 0.925490196  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <filter x="-60.4%" y="-326.5%" width="220.8%" height="752.9%" filterUnits="objectBoundingBox" id="filter-11">
+            <feGaussianBlur stdDeviation="11.76" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="12.560704%" y1="-47.417761%" x2="64.6680957%" y2="64.5473042%" id="linearGradient-12">
+            <stop stop-color="#4EFEF9" stop-opacity="0.141826923" offset="0%"></stop>
+            <stop stop-color="#64FFFC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-74.5%" y="-168.3%" width="249.1%" height="436.5%" filterUnits="objectBoundingBox" id="filter-13">
+            <feGaussianBlur stdDeviation="8.82" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="26.2601909%" y1="43.6013466%" x2="78.0461151%" y2="55.8546316%" id="linearGradient-14">
+            <stop stop-color="#DAFFFE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#BEDFFF" offset="49.3061626%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-60.4%" y="-326.5%" width="220.8%" height="752.9%" filterUnits="objectBoundingBox" id="filter-15">
+            <feGaussianBlur stdDeviation="11.76" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <path d="M2.95945946,106.104144 L143.040541,106.104144 L142.116024,111.365459 C138.657458,131.047738 121.560972,145.401975 101.577134,145.401975 L44.4228662,145.401975 C24.439028,145.401975 7.34254181,131.047738 3.88397647,111.365459 L2.95945946,106.104144 L2.95945946,106.104144 Z" id="path-16"></path>
+        <filter x="-7.9%" y="-28.0%" width="115.7%" height="156.0%" filterUnits="objectBoundingBox" id="filter-17">
+            <feGaussianBlur stdDeviation="9" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.51372549   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feGaussianBlur stdDeviation="9" in="SourceAlpha" result="shadowBlurInner2"></feGaussianBlur>
+            <feOffset dx="0" dy="-4" in="shadowBlurInner2" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.51372549   0 0 0 0 1  0 0 0 0.508276879 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feGaussianBlur stdDeviation="5" in="SourceAlpha" result="shadowBlurInner3"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner3" result="shadowOffsetInner3"></feOffset>
+            <feComposite in="shadowOffsetInner3" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner3"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.51372549   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner3" result="shadowMatrixInner3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M16.8461538,106.379558 L129.305613,106.379558 L128.757218,110.266934 C125.892131,130.576505 108.511432,145.677389 88.0007667,145.677389 L58.1510005,145.677389 C37.6403352,145.677389 20.2596363,130.576505 17.3945491,110.266934 L16.8461538,106.379558 L16.8461538,106.379558 Z" id="path-18"></path>
+        <filter x="-9.8%" y="-28.0%" width="119.6%" height="156.0%" filterUnits="objectBoundingBox" id="filter-19">
+            <feGaussianBlur stdDeviation="9" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="4" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.51372549   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feGaussianBlur stdDeviation="9" in="SourceAlpha" result="shadowBlurInner2"></feGaussianBlur>
+            <feOffset dx="0" dy="-4" in="shadowBlurInner2" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.51372549   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="98.5566918%" y1="66.1156781%" x2="3.22962288%" y2="35.4561279%" id="linearGradient-20">
+            <stop stop-color="#005EFF" stop-opacity="0.785101617" offset="0%"></stop>
+            <stop stop-color="#3DA0FF" stop-opacity="0" offset="45.0742201%"></stop>
+            <stop stop-color="#0083FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="33.4201182%" x2="42.5636542%" y2="55.5910472%" id="linearGradient-21">
+            <stop stop-color="#42A2FF" offset="0%"></stop>
+            <stop stop-color="#AED7FF" offset="0%"></stop>
+            <stop stop-color="#005EFF" stop-opacity="0.486942745" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="70.3346685%" y1="50.1512697%" x2="101.449867%" y2="66.5798818%" id="linearGradient-22">
+            <stop stop-color="#83C2FF" stop-opacity="0.574847028" offset="0%"></stop>
+            <stop stop-color="#8BC6FF" stop-opacity="0.7988691" offset="100%"></stop>
+        </linearGradient>
+        <path d="M42.4124324,61.9035639 L103.587568,61.9035639 C104.128807,61.9035639 104.567568,62.3423248 104.567568,62.8835639 L104.567568,97.2796252 C104.567568,97.8208643 104.128807,98.2596252 103.587568,98.2596252 L42.4124324,98.2596252 C41.8711934,98.2596252 41.4324324,97.8208643 41.4324324,97.2796252 L41.4324324,62.8835639 C41.4324324,62.3423248 41.8711934,61.9035639 42.4124324,61.9035639 Z" id="path-23"></path>
+        <linearGradient x1="0%" y1="93.5545421%" x2="95.4755199%" y2="4.72744378%" id="linearGradient-24">
+            <stop stop-color="#48A6FF" stop-opacity="0.368143575" offset="0%"></stop>
+            <stop stop-color="#0082FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="96.388498%" y2="10.2510641%" id="linearGradient-25">
+            <stop stop-color="#91C9FF" offset="0%"></stop>
+            <stop stop-color="#379DFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="41.2371098%" y1="37.9402811%" x2="65.1821899%" y2="50%" id="linearGradient-26">
+            <stop stop-color="#0082FF" stop-opacity="0.0193946678" offset="0%"></stop>
+            <stop stop-color="#005EFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="44.8003807%" y1="18.286004%" x2="55.1996193%" y2="92.7281144%" id="linearGradient-27">
+            <stop stop-color="#93C8FF" offset="0%"></stop>
+            <stop stop-color="#1C84E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.7409682%" y1="90.1106052%" x2="95.3612152%" y2="-9.20321884%" id="linearGradient-28">
+            <stop stop-color="#97D1FF" offset="0%"></stop>
+            <stop stop-color="#3DA0FF" stop-opacity="0.619919143" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.6470858%" y1="90.2355556%" x2="95.3612152%" y2="-9.20321884%" id="linearGradient-29">
+            <stop stop-color="#97D1FF" offset="0.125655594%"></stop>
+            <stop stop-color="#3DA0FF" stop-opacity="0.619919143" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="9.43524897%" y1="16.3520476%" x2="92.4715365%" y2="83.5715958%" id="linearGradient-30">
+            <stop stop-color="#DFEFFF" offset="0%"></stop>
+            <stop stop-color="#5EB0FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.15163868%" y1="12.7400629%" x2="96.1513674%" y2="84.9982152%" id="linearGradient-31">
+            <stop stop-color="#E9F4FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.16368007" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-32" x="58.2027027" y="58.9557751" width="29.5945946" height="25.5475026" rx="3.92"></rect>
+        <filter x="-40.5%" y="-47.0%" width="181.1%" height="193.9%" filterUnits="objectBoundingBox" id="filter-33">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.135435539   0 0 0 0 0.539372587   0 0 0 0 0.953408062  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.00392156863   0 0 0 0 0.239215686   0 0 0 0 0.333333333  0 0 0 0.22036167 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-149.3%" y="-61.0%" width="398.6%" height="221.9%" filterUnits="objectBoundingBox" id="filter-34">
+            <feGaussianBlur stdDeviation="1.96" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="14.9557274%" y1="14.3508198%" x2="70.406954%" y2="85.0945789%" id="linearGradient-35">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#75BBFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="11.2683757%" y1="7.41658832%" x2="94.186669%" y2="93.6841348%" id="linearGradient-36">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#45A4FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M74.9794595,63.8687564 C75.5206985,63.8687564 75.9594595,64.3075174 75.9594595,64.8487564 L75.9591081,68.7807564 L79.9118919,68.7817377 C80.4531309,68.7817377 80.8918919,69.2204986 80.8918919,69.7617377 L80.8918919,73.6973152 C80.8918919,74.2385542 80.4531309,74.6773152 79.9118919,74.6773152 L75.9591081,74.6767564 L75.9594595,78.6102964 C75.9594595,79.1515355 75.5206985,79.5902964 74.9794595,79.5902964 L71.0205405,79.5902964 C70.4793015,79.5902964 70.0405405,79.1515355 70.0405405,78.6102964 L70.0401081,74.6767564 L66.0881081,74.6773152 C65.5468691,74.6773152 65.1081081,74.2385542 65.1081081,73.6973152 L65.1081081,69.7617377 C65.1081081,69.2204986 65.5468691,68.7817377 66.0881081,68.7817377 L70.0401081,68.7807564 L70.0405405,64.8487564 C70.0405405,64.3075174 70.4793015,63.8687564 71.0205405,63.8687564 L74.9794595,63.8687564 Z" id="path-37"></path>
+        <filter x="-41.2%" y="-35.0%" width="182.4%" height="182.7%" filterUnits="objectBoundingBox" id="filter-38">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.290196078   0 0 0 0 0.603921569   0 0 0 0 0.925490196  0 0 0 0.839980332 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="11.2683757%" y1="7.41658832%" x2="94.186669%" y2="93.6841348%" id="linearGradient-39">
+            <stop stop-color="#9FD0FF" offset="0%"></stop>
+            <stop stop-color="#339BFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-158.2%" y="-61.3%" width="416.3%" height="222.6%" filterUnits="objectBoundingBox" id="filter-40">
+            <feGaussianBlur stdDeviation="1.96" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="首页导航方案设计" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1北大国际医院总览切图" transform="translate(-668.000000, -622.000000)">
+            <g id="住院选中" transform="translate(685.000000, 639.000000)">
+                <path d="M21.9947162,40.3340966 L124.343215,40.3340966 C135.580012,40.3340966 144.689236,49.4433203 144.689236,60.6801173 L144.689236,92.4851669 C144.689235,118.387777 124.899722,139.998114 99.0971282,142.27218 C90.2854497,143.048783 81.5757925,143.437084 72.9681564,143.437084 C64.4886173,143.437084 55.9280042,143.060254 47.2863172,142.306594 C21.4641893,140.054592 1.64869541,118.435732 1.64869541,92.5155894 L1.64869541,60.6801173 C1.64869541,49.4433203 10.7579192,40.3340966 21.9947162,40.3340966 Z" id="矩形" fill="url(#linearGradient-1)"></path>
+                <g id="椭圆形" filter="url(#filter-4)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-3"></use>
+                    <ellipse stroke="url(#linearGradient-2)" stroke-width="1.4" stroke-linejoin="square" cx="73" cy="72.7009875" rx="72.3" ry="72.0009875"></ellipse>
+                </g>
+                <g id="椭圆形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                    <use fill="#093346" fill-rule="evenodd" xlink:href="#path-8"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-8"></use>
+                    <ellipse stroke="url(#linearGradient-6)" stroke-width="0.98" stroke-linejoin="square" cx="73" cy="74.6658791" rx="65.6045946" ry="65.3338671"></ellipse>
+                    <use stroke="url(#linearGradient-7)" stroke-width="0.98" xlink:href="#path-8"></use>
+                </g>
+                <ellipse id="椭圆形备份-18" fill="#0081FF" opacity="0.895008176" filter="url(#filter-11)" cx="73.5817741" cy="96.7709091" rx="29.2151767" ry="5.40345178"></ellipse>
+                <path d="M39.957388,32.4264273 C46.4444898,30.8090112 52.9477185,30.3445896 59.2494193,30.9029895 L44.8669146,62.0647112 L16.6659516,44.2355097 C23.2246818,38.7554946 31.0997116,34.6348941 39.957388,32.4264273 Z" id="形状结合" fill="url(#linearGradient-12)" opacity="0.62170694" transform="translate(37.937008, 46.375842) rotate(-30.000000) translate(-37.937008, -46.375842) "></path>
+                <ellipse id="椭圆形备份-7" fill="#4A9AEC" filter="url(#filter-13)" transform="translate(36.636146, 41.008142) rotate(-48.000000) translate(-36.636146, -41.008142) " cx="36.6361457" cy="41.0081419" rx="17.749814" ry="7.86268273"></ellipse>
+                <path d="M49.9763173,33.438419 C35.0448071,33.438419 21.4265344,39.038026 11.1232699,48.2436686" id="路径" stroke="url(#linearGradient-14)" stroke-width="0.98" transform="translate(30.549794, 40.841044) rotate(-30.000000) translate(-30.549794, -40.841044) "></path>
+                <ellipse id="椭圆形" fill="#4A9AEC" opacity="0.895008176" filter="url(#filter-15)" cx="70.6223146" cy="93.8235718" rx="29.2151767" ry="5.40345178"></ellipse>
+                <g id="矩形">
+                    <use fill="#002836" fill-rule="evenodd" xlink:href="#path-16"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
+                </g>
+                <g id="矩形">
+                    <use fill="#002431" fill-rule="evenodd" xlink:href="#path-18"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
+                </g>
+                <text id="住院" font-family="PingFangSC-Medium, PingFang SC" font-size="23.52" font-weight="400" line-spacing="23.52" fill="#FFFFFF">
+                    <tspan x="49" y="136">住院</tspan>
+                </text>
+                <g id="矩形" stroke-linejoin="square" stroke-width="0.98">
+                    <path stroke="url(#linearGradient-21)" d="M103.587568,62.3935639 L104.077568,97.2796252 L42.4124324,97.7696252 L41.9224324,62.8835639 L103.587568,62.3935639 Z" fill="url(#linearGradient-20)" fill-rule="evenodd"></path>
+                    <path stroke="url(#linearGradient-22)" d="M103.587568,62.3935639 L104.077568,97.2796252 L42.4124324,97.7696252 L41.9224324,62.8835639 L103.587568,62.3935639 Z"></path>
+                </g>
+                <path d="M94.6184157,54.9385069 L94.6184157,97.3639123 L52.3284975,97.3639123 L51.3815843,96.7372534 L51.3815843,55.5681619 L52.2714881,54.9385069 L94.6184157,54.9385069 Z" id="矩形" stroke="url(#linearGradient-25)" stroke-width="0.98" fill="url(#linearGradient-24)" transform="translate(73.000000, 76.151210) rotate(-270.000000) translate(-73.000000, -76.151210) "></path>
+                <path d="M79.5086551,27.5097959 L79.5086551,69.0255996 L66.6990679,59.9978046 L66.4913449,36.9381152 L79.5086551,27.5097959 Z" id="矩形" stroke="url(#linearGradient-27)" stroke-width="0.98" fill="url(#linearGradient-26)" transform="translate(73.000000, 48.267698) scale(-1, 1) rotate(-270.000000) translate(-73.000000, -48.267698) "></path>
+                <path d="M69.0378461,87.4244818 L69.0378461,99.2688061 L60.6818836,99.2688061 L60.1918836,87.9144818 L69.0378461,87.4244818 Z" id="矩形" stroke="url(#linearGradient-28)" stroke-width="0.98" fill-opacity="0.27" fill="#0B4988" transform="translate(64.614865, 93.346644) rotate(-270.000000) translate(-64.614865, -93.346644) "></path>
+                <path d="M85.8081164,87.4244818 L85.8081164,99.2688061 L77.4521539,99.2688061 L76.9621539,87.9144818 L85.8081164,87.4244818 Z" id="矩形备份-4" stroke="url(#linearGradient-29)" stroke-width="0.98" fill-opacity="0.27" fill="#0B4988" transform="translate(81.385135, 93.346644) rotate(-270.000000) translate(-81.385135, -93.346644) "></path>
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-33)" xlink:href="#path-32"></use>
+                    <rect stroke="url(#linearGradient-31)" stroke-width="0.98" stroke-linejoin="square" fill="url(#linearGradient-30)" fill-rule="evenodd" x="58.6927027" y="59.4457751" width="28.6145946" height="24.5675026" rx="3.92"></rect>
+                </g>
+                <path d="M64.2780497,68.1856322 C64.8217969,68.1845577 63.0927075,65.1914223 63.0959303,63.5601808 C63.099153,61.9289392 64.9930111,58.5403108 64.4492639,58.5413848 C63.9055167,58.5424593 60.612012,61.4682915 60.6087868,63.099533 C60.6055665,64.7307746 63.7343025,68.1867062 64.2780497,68.1856322 Z" id="椭圆形" fill="#FFFFFF" filter="url(#filter-34)" transform="translate(62.578074, 63.363509) rotate(-315.000000) translate(-62.578074, -63.363509) "></path>
+                <g id="形状结合备份-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-38)" xlink:href="#path-37"></use>
+                    <path stroke="url(#linearGradient-36)" stroke-width="0.98" d="M74.9794595,64.3587564 L75.4690643,69.2706348 L79.9118919,69.2717377 L80.4018919,73.6973152 L75.4690643,74.1866871 L75.4694595,78.6102964 L71.0205405,79.1002964 L70.5300542,74.1866871 L66.0881081,74.1873152 L65.5981081,69.7617377 L70.5300542,69.2706348 L70.5305405,64.8487564 L74.9794595,64.3587564 Z" stroke-linejoin="square" fill="url(#linearGradient-35)" fill-rule="evenodd"></path>
+                </g>
+                <path d="M74.9794595,64.3587564 L75.4690643,69.2706348 L79.9118919,69.2717377 L80.4018919,73.6973152 L75.4690643,74.1866871 L75.4694595,78.6102964 L71.0205405,79.1002964 L70.5300542,74.1866871 L66.0881081,74.1873152 L65.5981081,69.7617377 L70.5300542,69.2706348 L70.5305405,64.8487564 L74.9794595,64.3587564 Z" id="形状结合备份-4" stroke="url(#linearGradient-39)" stroke-width="0.98"></path>
+                <path d="M72.0656636,72.5587969 C72.6094108,72.5577227 72.7231008,72.1397775 72.7263236,70.5085359 C72.7295464,68.8772944 72.7342875,66.8744421 72.1905403,66.8755164 C71.9931386,66.8759064 69.3964078,65.1326715 69.0879436,65.4279122 C68.5467364,65.9459185 70.9726227,69.0295641 70.9705699,70.0686007 C70.9691056,70.809757 69.380456,74.4391798 69.7105578,74.9139026 C70.1069908,75.484017 71.7689685,72.5593831 72.0656636,72.5587969 Z" id="椭圆形备份-21" fill="#FFFFFF" filter="url(#filter-40)" transform="translate(70.868021, 70.190920) rotate(-315.000000) translate(-70.868021, -70.190920) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720px" height="149px" viewBox="0 0 720 149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>展开背景</title>
+    <defs>
+        <linearGradient x1="50%" y1="14.8123167%" x2="50%" y2="99.0910801%" id="linearGradient-1">
+            <stop stop-color="#004A64" offset="0%"></stop>
+            <stop stop-color="#002B3A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-17.1452222%" x2="50%" y2="13.4735746%" id="linearGradient-2">
+            <stop stop-color="#4EFEF9" stop-opacity="0.125546329" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="78.0229596%" y1="8.93115224%" x2="22.3386284%" y2="8.93115224%" id="linearGradient-3">
+            <stop stop-color="#4EFEF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" offset="49.8429568%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-1.7%" y="-9.6%" width="103.5%" height="119.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-0.5%" y="-2.8%" width="101.0%" height="105.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="96.0509565%" y1="49.3228271%" x2="5.57239208%" y2="49.3147543%" id="linearGradient-6">
+            <stop stop-color="#4EFEF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#82FFFB" stop-opacity="0.379097465" offset="49.8429568%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-0.1%" y="-0.4%" width="100.1%" height="100.6%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-2.000000, -1478.000000)">
+            <g id="展开背景" transform="translate(14.242490, 1490.000000)">
+                <path d="M347.500352,0 C519.164463,0 662.330093,53.6941434 695.000705,124.999328 L1.49213975e-13,124.999328 C32.6706124,53.6941434 175.836242,0 347.500352,0 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+                <path d="M347.500352,0 C519.164463,0 662.330093,53.6941434 695.000705,124.999328 L1.49213975e-13,124.999328 C32.6706124,53.6941434 175.836242,0 347.500352,0 Z" id="形状结合" fill="url(#linearGradient-2)"></path>
+                <path d="M347.500352,0.5 C432.491064,0.5 510.491574,13.6687514 571.534446,35.6264787 C633.163708,57.7951362 677.516072,88.9073277 694.217712,124.499328 L694.217712,124.499328 L0.782993015,124.499328 C17.4846326,88.9073277 61.8369968,57.7951362 123.466259,35.6264787 C184.509131,13.6687514 262.50964,0.5 347.500352,0.5 Z" id="形状结合" stroke="url(#linearGradient-3)" filter="url(#filter-4)"></path>
+                <path d="M0,124.999328 C32.6706124,53.6941434 175.836242,0 347.500352,0 C519.164463,0 662.330093,53.6941434 695.000705,124.999328" id="路径" stroke="url(#linearGradient-3)" filter="url(#filter-5)"></path>
+                <path d="M0,124.999328 C32.6706124,53.6941434 175.836242,0 347.500352,0 C519.164463,0 662.330093,53.6941434 695.000705,124.999328" id="路径" stroke="url(#linearGradient-6)" filter="url(#filter-7)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>门诊</title>
+    <defs>
+        <linearGradient x1="49.9999897%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5FFAFC" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0.430288462" offset="12.494979%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0.0470388986" offset="41.7285832%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0.313510708" offset="58.4452332%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0.534992351" offset="84.5220085%"></stop>
+            <stop stop-color="#4EFEF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="91.8321072%" y1="49.1969896%" x2="61.1788169%" y2="58.5941376%" id="linearGradient-2">
+            <stop stop-color="#00FFF8" offset="0%"></stop>
+            <stop stop-color="#00FFF8" offset="44.6623689%"></stop>
+            <stop stop-color="#FAF475" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9999897%" y1="0%" x2="115.663237%" y2="193.740023%" id="linearGradient-3">
+            <stop stop-color="#4EFEF9" offset="0%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0.430288462" offset="12.494979%"></stop>
+            <stop stop-color="#4EFEF9" stop-opacity="0.0470388986" offset="41.7285832%"></stop>
+            <stop stop-color="#FAF475" stop-opacity="0.313510708" offset="58.4452332%"></stop>
+            <stop stop-color="#FAF475" stop-opacity="0.534992351" offset="84.5220085%"></stop>
+            <stop stop-color="#4EFEF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="110.238234%" y1="49.1969896%" x2="66.0974963%" y2="58.5941376%" id="linearGradient-4">
+            <stop stop-color="#00FFF8" offset="0%"></stop>
+            <stop stop-color="#4AF2ED" offset="44.6623689%"></stop>
+            <stop stop-color="#FAF475" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-490.000000, -581.000000)" stroke-width="0.5">
+            <g id="门诊" transform="translate(497.000000, 582.000000)">
+                <path d="M8.78551291,50.9102197 C3.16273347,45.3336098 0,37.7424917 0,29.8234393 C0,21.904387 3.16273347,14.3132689 8.78551291,8.736659 C20.5009165,-2.91221967 39.497571,-2.91221967 51.2129746,8.736659 C56.8366783,14.3133856 60,21.9051485 60,29.8249393 C60,37.7447301 56.8366783,45.336493 51.2129746,50.9132197 L29.9992437,72 L8.78551291,50.9102197 Z" id="形状" stroke="url(#linearGradient-2)" fill="url(#linearGradient-1)"></path>
+                <path d="M29.5714286,49.7142857 C40.6960214,49.7142857 49.7142857,40.6960214 49.7142857,29.5714286 C49.7142857,18.4468358 40.6960214,9.42857143 29.5714286,9.42857143 C18.4468358,9.42857143 9.42857143,18.4468358 9.42857143,29.5714286 C9.42857143,40.6960214 18.4468358,49.7142857 29.5714286,49.7142857 Z" id="路径" stroke="url(#linearGradient-4)" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="216px" viewBox="0 0 372 216" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 16</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.3">
+        <g id="数据大屏/图表空1" transform="translate(-141.000000, -706.000000)">
+            <g id="编组-3备份" transform="translate(141.000000, 706.000000)" filter="url(#filter-1)">
+                <g>
+                    <rect id="矩形备份-58" fill="#4A9AEC" opacity="0.8" x="332" y="3.00076353" width="8" height="7.99847295"></rect>
+                    <rect id="矩形备份-59" fill="#4EFEF9" opacity="0.8" x="268" y="3.00076353" width="8" height="7.99847295"></rect>
+                    <text id="字体/14px/白/左" opacity="0.6" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="280" y="15"># #</tspan>
+                    </text>
+                    <text id="字体/14px/白/左" opacity="0.6" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="344" y="15.0410395"># #</tspan>
+                    </text>
+                    <polygon id="Rectangle-3备份" fill="#FFFFFF" opacity="0.15" points="48 194.005345 372 194.005345 372 195.005154 48 195.005154"></polygon>
+                    <polygon id="Rectangle-3备份-2" fill="#FFFFFF" opacity="0.15" points="48 162.011453 372 162.011453 372 163.011262 48 163.011262"></polygon>
+                    <polygon id="Rectangle-3备份-3" fill="#FFFFFF" opacity="0.15" points="48 130.017561 372 130.017561 372 131.01737 48 131.01737"></polygon>
+                    <polygon id="Rectangle-3备份-4" fill="#FFFFFF" opacity="0.15" points="48 99.0234784 372 99.0234784 372 100.023288 48 100.023288"></polygon>
+                    <polygon id="Rectangle-3备份-5" fill="#FFFFFF" opacity="0.15" points="48 67.0295866 372 67.0295866 372 68.0293957 48 68.0293957"></polygon>
+                    <polygon id="Rectangle-3备份-6" fill="#FFFFFF" opacity="0.15" points="48 35.0356948 372 35.0356948 372 36.0355039 48 36.0355039"></polygon>
+                    <polygon id="Rectangle-8-Copy-2备份-4" fill="#FFFFFF" opacity="0.15" points="47 0.042375653 48 0.042375653 48 195.005154 47 195.005154"></polygon>
+                    <text id="字体/12px/333/中" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="64" y="215.836493">12</tspan>
+                    </text>
+                    <text id="字体/12px/333/中备份" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="101.836914" y="214.496813">21-01</tspan>
+                    </text>
+                    <text id="字体/12px/333/中备份-2" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="164" y="215.836493">02</tspan>
+                    </text>
+                    <text id="字体/12px/333/中备份-3" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="214" y="215.836493">03</tspan>
+                    </text>
+                    <text id="字体/12px/333/中备份-4" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="264" y="215.836493">04</tspan>
+                    </text>
+                    <text id="字体/12px/333/中备份-5" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="314" y="216.002672">05</tspan>
+                    </text>
+                    <text id="字体/12px/333/右" opacity="0.6" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="0" y="168">000.00</tspan>
+                    </text>
+                    <text id="字体/12px/333/右" opacity="0.6" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="0" y="137">000.00</tspan>
+                    </text>
+                    <text id="字体/12px/333/右" opacity="0.6" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="0" y="106">000.00</tspan>
+                    </text>
+                    <text id="字体/12px/333/右" opacity="0.6" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="0" y="73">000.00</tspan>
+                    </text>
+                    <text id="字体/12px/333/右" opacity="0.6" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="0" y="41">000.00</tspan>
+                    </text>
+                    <text id="字体/12px/333/右备份-2" opacity="0.6" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                        <tspan x="344" y="216.002672">月份</tspan>
+                    </text>
+                    <g id="编组-14" transform="translate(63.000000, 164.011071)" opacity="0.8">
+                        <path d="M1,7.99847295 L7,7.99847295 C7.55228475,7.99847295 8,8.4461882 8,8.99847295 L8,29.9942736 L8,29.9942736 L0,29.9942736 L0,8.99847295 C-6.76353751e-17,8.4461882 0.44771525,7.99847295 1,7.99847295 Z" id="矩形备份-7" fill="#4EFEF9"></path>
+                        <path d="M13,0 L19,0 C19.5522847,1.67029729e-16 20,0.44771525 20,1 L20,29.9942736 L20,29.9942736 L12,29.9942736 L12,1 C12,0.44771525 12.4477153,-9.5692398e-18 13,0 Z" id="矩形备份-13" fill="#4A9AEC"></path>
+                    </g>
+                    <g id="编组-12" transform="translate(113.000000, 147.014316)" opacity="0.8">
+                        <path d="M1,0 L7,0 C7.55228475,3.89074334e-16 8,0.44771525 8,1 L8,46.9910286 L8,46.9910286 L0,46.9910286 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="矩形备份-18" fill="#4EFEF9"></path>
+                        <path d="M13,2.99942736 L19,2.99942736 C19.5522847,2.99942736 20,3.44714261 20,3.99942736 L20,46.9910286 L20,46.9910286 L12,46.9910286 L12,3.99942736 C12,3.44714261 12.4477153,2.99942736 13,2.99942736 Z" id="矩形备份-19" fill="#4A9AEC"></path>
+                    </g>
+                    <g id="编组-11" transform="translate(162.000000, 117.020043)" opacity="0.8">
+                        <path d="M1,13.9973277 L7,13.9973277 C7.55228475,13.9973277 8,14.4450429 8,14.9973277 L8,76.9853021 L8,76.9853021 L0,76.9853021 L0,14.9973277 C-6.76353751e-17,14.4450429 0.44771525,13.9973277 1,13.9973277 Z" id="矩形备份-20" fill="#4EFEF9"></path>
+                        <path d="M13,0 L19,0 C19.5522847,-1.01453063e-16 20,0.44771525 20,1 L20,76.9853021 L20,76.9853021 L12,76.9853021 L12,1 C12,0.44771525 12.4477153,1.01453063e-16 13,0 Z" id="矩形备份-21" fill="#4A9AEC"></path>
+                    </g>
+                    <g id="编组-8" transform="translate(262.000000, 57.031495)" opacity="0.8">
+                        <path d="M1,15.9969459 L7,15.9969459 C7.55228475,15.9969459 8,16.4446611 8,16.9969459 L8,136.973849 L8,136.973849 L0,136.973849 L0,16.9969459 C-1.78657678e-16,16.4446611 0.44771525,15.9969459 1,15.9969459 Z" id="矩形备份-25" fill="#4EFEF9"></path>
+                        <path d="M13,0 L19,0 C19.5522847,-1.01453063e-16 20,0.44771525 20,1 L20,136.973849 L20,136.973849 L12,136.973849 L12,1 C12,0.44771525 12.4477153,1.01453063e-16 13,0 Z" id="矩形备份-26" fill="#4A9AEC"></path>
+                    </g>
+                    <g id="编组-9" transform="translate(212.000000, 96.024051)" opacity="0.8">
+                        <path d="M1,0 L7,0 C7.55228475,1.67029729e-16 8,0.44771525 8,1 L8,97.9812936 L8,97.9812936 L0,97.9812936 L0,1 C-1.78657678e-16,0.44771525 0.44771525,-9.5692398e-18 1,0 Z" id="矩形备份-31" fill="#4EFEF9"></path>
+                        <path d="M13,23.9954188 L19,23.9954188 C19.5522847,23.9954188 20,24.4431341 20,24.9954188 L20,97.9812936 L20,97.9812936 L12,97.9812936 L12,24.9954188 C12,24.4431341 12.4477153,23.9954188 13,23.9954188 Z" id="矩形备份-32" fill="#4A9AEC"></path>
+                    </g>
+                    <g id="编组-6" transform="translate(312.000000, 110.021379)" opacity="0.8">
+                        <path d="M1,0 L7,0 C7.55228475,-5.91980459e-16 8,0.44771525 8,1 L8,83.983966 L8,83.983966 L0,83.983966 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="矩形备份-27" fill="#4EFEF9"></path>
+                        <path d="M13,26.9948462 L19,26.9948462 C19.5522847,26.9948462 20,27.4425615 20,27.9948462 L20,83.983966 L20,83.983966 L12,83.983966 L12,27.9948462 C12,27.4425615 12.4477153,26.9948462 13,26.9948462 Z" id="矩形备份-28" fill="#4A9AEC"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

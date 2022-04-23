@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>急诊</title>
+    <defs>
+        <linearGradient x1="49.9999897%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F26334" stop-opacity="0.449956294" offset="0%"></stop>
+            <stop stop-color="#F26334" stop-opacity="0.125682911" offset="24.4330512%"></stop>
+            <stop stop-color="#FF5D28" stop-opacity="0.227381993" offset="52.6801215%"></stop>
+            <stop stop-color="#FF7548" stop-opacity="0.192280376" offset="53.0083552%"></stop>
+            <stop stop-color="#F26334" stop-opacity="0.446787587" offset="83.0023874%"></stop>
+            <stop stop-color="#F26334" stop-opacity="0.761117788" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="91.4594915%" y1="49.3112195%" x2="61.1788169%" y2="58.5941376%" id="linearGradient-2">
+            <stop stop-color="#F26334" offset="0%"></stop>
+            <stop stop-color="#F26334" stop-opacity="0.192908654" offset="43.7855114%"></stop>
+            <stop stop-color="#F26334" stop-opacity="0.133085664" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9999897%" y1="0%" x2="115.663237%" y2="193.740023%" id="linearGradient-3">
+            <stop stop-color="#F26334" stop-opacity="0.304086538" offset="0%"></stop>
+            <stop stop-color="#F26334" stop-opacity="0.304004589" offset="12.9261364%"></stop>
+            <stop stop-color="#FAB175" stop-opacity="0" offset="41.7285832%"></stop>
+            <stop stop-color="#F26334" stop-opacity="0.218012456" offset="57.7032343%"></stop>
+            <stop stop-color="#FA9075" stop-opacity="0.0915646853" offset="84.5220085%"></stop>
+            <stop stop-color="#F26334" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="110.238234%" y1="49.1969896%" x2="66.0974963%" y2="58.5941376%" id="linearGradient-4">
+            <stop stop-color="#F26334" offset="0%"></stop>
+            <stop stop-color="#F26334" stop-opacity="0.182583042" offset="45.3999126%"></stop>
+            <stop stop-color="#F26334" stop-opacity="0.357599432" offset="98.6997378%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-623.000000, -579.000000)" stroke-width="0.5">
+            <g id="急诊" transform="translate(630.000000, 580.000000)">
+                <path d="M8.78551291,50.9102197 C3.16273347,45.3336098 0,37.7424917 0,29.8234393 C0,21.904387 3.16273347,14.3132689 8.78551291,8.736659 C20.5009165,-2.91221967 39.497571,-2.91221967 51.2129746,8.736659 C56.8366783,14.3133856 60,21.9051485 60,29.8249393 C60,37.7447301 56.8366783,45.336493 51.2129746,50.9132197 L29.9992437,72 L8.78551291,50.9102197 Z" id="形状" stroke="url(#linearGradient-2)" fill="url(#linearGradient-1)"></path>
+                <path d="M29.5714286,49.7142857 C40.6960214,49.7142857 49.7142857,40.6960214 49.7142857,29.5714286 C49.7142857,18.4468358 40.6960214,9.42857143 29.5714286,9.42857143 C18.4468358,9.42857143 9.42857143,18.4468358 9.42857143,29.5714286 C9.42857143,40.6960214 18.4468358,49.7142857 29.5714286,49.7142857 Z" id="路径" stroke="url(#linearGradient-4)" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

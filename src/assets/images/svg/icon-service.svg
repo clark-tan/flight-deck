@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>服务流程</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#30F7F9" offset="0%"></stop>
+            <stop stop-color="#007173" offset="100%"></stop>
+        </linearGradient>
+        <path d="M24,11 C26.209139,11 28,12.790861 28,15 L28,16 C28,17.6568542 26.6568542,19 25,19 L17,19 C15.3431458,19 14,17.6568542 14,16 L14,15 C14,12.790861 15.790861,11 18,11 L24,11 Z M22.2451253,2.08913649 C24.398882,2.08913649 26.1448468,3.84977323 26.1448468,6.02162871 C26.1448468,8.19348419 24.398882,9.95412092 22.2451253,9.95412092 C20.0913687,9.95412092 18.3454039,8.19348419 18.3454039,6.02162871 C18.3454039,3.84977323 20.0913687,2.08913649 22.2451253,2.08913649 Z" id="path-2"></path>
+        <filter x="-7.1%" y="-5.9%" width="114.3%" height="111.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.988235294   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#30F7F9" offset="0%"></stop>
+            <stop stop-color="#007173" offset="100%"></stop>
+        </linearGradient>
+        <path d="M15.5,13 C18.5375661,13 21,15.4624339 21,18.5 L21,21 C21,22.6568542 19.6568542,24 18,24 L3,24 C1.34314575,24 2.02906125e-16,22.6568542 0,21 L0,18.5 C-3.71994563e-16,15.4624339 2.46243388,13 5.5,13 L15.5,13 Z M10.6754875,0 C13.8484326,0 16.4206128,2.57218023 16.4206128,5.74512535 C16.4206128,8.91807046 13.8484326,11.4902507 10.6754875,11.4902507 C7.50254235,11.4902507 4.93036212,8.91807046 4.93036212,5.74512535 C4.93036212,2.57218023 7.50254235,0 10.6754875,0 Z" id="path-5"></path>
+        <filter x="-4.8%" y="-4.2%" width="109.5%" height="108.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.988235294   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-85.000000, -23.000000)">
+            <g id="服务流程" transform="translate(86.000000, 26.000000)">
+                <g id="形状结合">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                </g>
+                <g id="形状结合">
+                    <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                </g>
+                <path d="M10.7249304,14.6045539 C11.0010727,14.6045539 11.2249304,14.8284115 11.2249304,15.1045539 L11.2249304,17.8535539 L13.9749304,17.8545539 C14.2510727,17.8545539 14.4749304,18.0784115 14.4749304,18.3545539 L14.4749304,18.8545539 C14.4749304,19.1306963 14.2510727,19.3545539 13.9749304,19.3545539 L11.2249304,19.3535539 L11.2249304,22.1045539 C11.2249304,22.3806963 11.0010727,22.6045539 10.7249304,22.6045539 L10.2249304,22.6045539 C9.94878799,22.6045539 9.72493036,22.3806963 9.72493036,22.1045539 L9.72493036,19.3535539 L6.97493036,19.3545539 C6.69878799,19.3545539 6.47493036,19.1306963 6.47493036,18.8545539 L6.47493036,18.3545539 C6.47493036,18.0784115 6.69878799,17.8545539 6.97493036,17.8545539 L9.72493036,17.8535539 L9.72493036,15.1045539 C9.72493036,14.8284115 9.94878799,14.6045539 10.2249304,14.6045539 L10.7249304,14.6045539 Z" id="矩形-2" fill="#FFFFFF"></path>
+            </g>
+            <rect id="服务流程" x="85" y="23" width="30" height="30" rx="0.5"></rect>
+        </g>
+    </g>
+</svg>
